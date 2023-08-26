@@ -1,0 +1,98 @@
+utterances	labels
+What did you study?	learning and applying knowledge
+I studied law, but went in a completely different direction	learning and applying knowledge
+So what are you doing now?	general tasks and demands
+I have done additional courses focused on management in healthcare	learning and applying knowledge
+Oh, and do you work in that now?	general tasks and demands
+Yes, my courses led to a management job in healthcare	general tasks and demands
+What education did you do then?	learning and applying knowledge
+A master's degree from the University of Rotterdam.	learning and applying knowledge
+Did you learn a lot from that?	learning and applying knowledge
+Yes, a lot that I can now apply in my job	learning and applying knowledge
+--------------------	--------------------
+Hi, how are you doing; are you still painting?	interpersonal interactions and relationships
+No, not as much as I would like	major life areas
+How come?	interpersonal interactions and relationships
+My right arm hurts a lot when I paint.	self-care
+Oh that's annoying, can you do anything about it?	interpersonal interactions and relationships
+I'm being treated by a physiotherapist and it's getting better.	self-care
+Can you express yourself creatively in any other way at the moment?	major life areas
+Yes, I go to museums a lot to enjoy art	major life areas
+Oh, that's nice	interpersonal interactions and relationships
+Yes, looking at art also gives me a lot of pleasure	major life areas
+--------------------	--------------------
+Do you often meet with family when you have a day off?	interpersonal interactions and relationships
+Yes, we are very close as a family and I enjoy spending time with them.	interpersonal interactions and relationships
+Do you also go on vacation together?	interpersonal interactions and relationships
+Ye, we go skiing together every year	interpersonal interactions and relationships
+Oh nice, in our family we only see each other on birthdays	interpersonal interactions and relationships
+Is that okay for you guys?	interpersonal interactions and relationships
+Yes, we're not that close	interpersonal interactions and relationships
+Do you have a brother or sister?	interpersonal interactions and relationships
+I have a brother, but we rarely see each other.	interpersonal interactions and relationships
+Does your physical disability have anything to do with that?	none
+Yes, I can't travel far and we live far away from each other	mobility
+That is unfortunate	none
+--------------------	--------------------
+What do you find the most annoying household chore to do?	domestic life areas
+I find that ironing, I do that as little as possible	domestic life areas
+By buying clothes that do not wrinkle?	domestic life areas
+Yes, actually that's how I deal with it, haha	domestic life areas
+That seems like a good option to reduce the household burden	domestic life areas
+I also have a clean up worker once a week	domestic life areas
+Oh good, with what tasks is he helping you out?	domestic life areas
+Especially with cleaning the toilets and bathroom.	domestic life areas
+Oh yes, those are pretty heavy tasks that have to be done at least once a week.	domestic life areas
+Yes, because of my back problem that's a problem for me.	self-care
+Does your back still hurt?	self-care
+Yes, especially in tasks where I have to bend over.	self-care
+Great to have help then!	interpersonal interactions and relationships
+--------------------	--------------------
+who does the dishes in your house	domestic life areas
+well, that should be me doing the dishes	domestic life areas
+oh, why so?	none
+oh, I suppose its kind of a tradition that the woman takes care of the dishes	domestic life areas
+can you still manage to do the dishes?	self-care
+oh yes, but there is a difference compared to a couple of years ago in doing the dishes	domestic life areas
+how can you do the dishes different?	domestic life areas
+we were used to doing the dishes 3 times a day, when the kids were still at home	domestic life areas
+ah, you mean that you do the dishes not as many times as before?	domestic life areas
+yes, now sometimes don't do the dishes at all	domestic life areas
+it can become messy when you don't do the dishes, don't you think	domestic life areas
+I used to be more tidy with regard to the dishes than before, I suppose you're right	domestic life areas
+--------------------	--------------------
+when I got out of bed this morning I almost slipped	mobility
+oh really, why did you slip?	none
+not sure, I think my head was clear yet and I got up to fast	self-care
+ooh, that is understandable, you should whatch out when getting up at your age	interpersonal interactions and relationships
+not funny, I never have trouble getting out of bed before	none
+did anything change recently?	none
+come to think of it, I did start medication recently and on the disclosure I read dissyness could be a side effect	learning and applying knowledge
+a, well; there is you explanation than for nearly slipping!	none
+--------------------	--------------------
+did you talk with your parents about the thing the other day?	interpersonal interactions and relationships
+I tried to, but I did not get the chance?	interpersonal interactions and relationships
+what do you mean? did you not have the time or were you not able to start the conversation?	interpersonal interactions and relationships
+I really found it hard to start the conversation	interpersonal interactions and relationships
+what made it difficult to start the conversation?	interpersonal interactions and relationships
+I am afraid my parents will get mad at me for doing the thing	interpersonal interactions and relationships
+don't you think they will be more angry when they find out for themselves?	interpersonal interactions and relationships
+you are right, it's best to start the conversation myself	interpersonal interactions and relationships
+--------------------	--------------------
+I feel it's difficult for me to hear things clearly nowadays.	communication
+Hello, Hello. Can you hear me?	communication
+Sure, but if you are 5 meters away from me, then it's difficult.	communication
+When did you notice that?	none
+It starts around 1 year ago but it didn't affect my daily life yet. So I didn't care about it that much. However, recently, when I talked to my friends, I had to ask them to speak louder quite often so that I can hear what they said.	communication
+Have your ears ever been hurt or impaired by very loud sounds?	none
+None that I've known of.	none
+That might be caused by aging. It's better to have a check with your GP.	none
+--------------------	--------------------
+I feel it's difficult for me to get out of bed recently.	mobility
+Oh, why?	none
+I feel it was hard to breathe smoothly when I tried to get up from the bed.	mobility
+Do you have any chronic lung disease or do you smoke?	none
+My body check shows that there are some problems, and the doctor told me to have regular checks. Emm, I have smoked for almost 40 years already.	self-care
+How long have you felt difficult to get out of bed already? Do you have the same feeling every time when you get out of bed?	mobility
+It's been almost 2 months, and yes, I have the same feeling almost every time.	mobility
+--------------------	--------------------

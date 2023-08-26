@@ -1,0 +1,302 @@
+utterances	labels
+How are you feeling today?	communication
+I am a bit tired.	self-care
+Did you get enough sleep last night?	communication
+No. It was hard to sleep.	self-care
+That might be why you are feeling tired. Did you change your clothes this morning?	self-care
+Yes, I did. It took me almost half an hour to put them on.	self-care
+That can be a challenging part of each day. Did you follow the same steps as always?	self-care
+Yes, but my fingers hurt, and I could not get my buttons fastened.	self-care
+Maybe next time, you could ask someone to help lower or raise the table, which could allow you to minimize bending over near as much?	self-care
+That could be an	none
+--------------------	--------------------
+How are you feeling today?	communication
+I'm okay, been keeping myself busy	none
+That's great, is it difficult getting dressed or putting clothes on?	self-care
+Actually yes, every time I feel dizzy. But taking my time to finish dressing normally helps stabilize my body.	self-care
+And when is the last time you experienced that unstable feeling?	none
+Today while I was to tied my shoelaces	self-care
+Oh I see. Can you usually tell when it's going to happen?	none
+Often, but sometimes it feels sudden. And it's always random.	none
+I'm sorry to hear that. Can you tell me about another challenge you may have experienced	none
+--------------------	--------------------
+Do you do any self-care events, like getting dressed in the morning?	self-care
+Yes, getting dressed is my responsibility but sometimes I get worried about lifting my arms to put on clothes.	self-care (with subcategory of mobility)
+That makes sense. And do you bathe yourself in the morning?	self-care
+Yes, but recently, I've needed help getting in and out of the tub because I'm worried about falling. 	self-care (with subcategory of mobility)
+Hmm, maybe you could use a bath chair or shower seat to reduce the risk of falling if you're worried about that?	self-care (with subcategory of mobility)
+Good idea. I'll discuss it with my caregiver.	self-care (with subcategory of communication)
+What about taking off clothes? Is that something you can do independently?	self-care
+Typically, not always. Sometimes I get frustrated struggling	self-care
+--------------------	--------------------
+How has your day been so far?	none
+Pretty good, but these days I feel so tired with normal activities. 	general tasks and demands
+Have you been okay while getting ready in the morning?	self-care
+No dear, that's the definite opposite. Lately, putting on clothings is taking lot of time, and it almost runs out my energy.	self-care
+What part of getting dressed is so challenging for you?	self-care
+Oh it starts right from bending over to socks those can be and tightening bra clips difficult daily routines back hurts grabbing stuff are burdensome cough punctiliar during morning and family depends on most healthcare specialist. 	self-care
+Hmm, I'm sorry to hear that. How many times a day do you need assistance?	self-care
+--------------------	--------------------
+Do you have any difficulties with putting on and taking off your clothes?	self-care
+Well, I couldn't put them on by myself these days as my flexibility declined lately.	self-care
+I see. What kind of clothings cause difficulty? 	self-care
+Putting my pants on alone has become challenging, especially those that close over my abdomen because they require remaining upright for extended periods while doing two nonlinear motions altogether as tightly. 	self-care
+Maybe wearing pants with elastic waistbands, elastic cylinders, or designed pockets other closings than zippers might work better.?	self-care
+That sounds right. Though following recommending physican issued plan including exercise promoting physical endurance  build core strength so l may self-care oftentimes, maintaining a tally of constant	none
+--------------------	--------------------
+How have you been, did you do anything enjoyable today? 	communication
+Well, I played with my grandkids earlier and I take short walks by myself as well.	interpersonal interactions and relationships, mobility
+That sounds great. How do you manage to dress yourself each day?	self-care
+It takes me a little longer, but I usually put my clothes on over my amputated leg and then figure out how to hybrid into my wheelchair and standing rather than sitting thereafter.	self-care, mobility
+That must require a good deal of skill, is assistance readily available across the sort of events?	communication
+Yes, it does, some bright days I have intentions mainly concerning leaving every critical order for assisted self-effects for assigned weekdays in support of avoiding possible inconveniences till when assistance arrives	none
+--------------------	--------------------
+Hey there, how have you been doing lately?	interpersonal interactions and relationships
+Not bad. Just trying to keep going with my daily life.	general tasks and demands
+I understand. What sort of things are you up to these days?	interpersonal interactions and relationships
+Well, usual if you may. Waking up in the morning, getting my clothes out, and starting to dress myself - that starts always makes things challenging sometimes.	self-care
+I imagine so. When do you usually do it and how?	general tasks and demands
+Every day when I wake up definitely. I dress-up for loosened up time at home first,no timing around that. ereading-newsor noting days; also trips with Family Kids small. Otherwise Anabell cleaned for t living properly four months deep-cleaning.	domestic life areas
+--------------------	--------------------
+Hi, how have you been lately?	interpersonal interactions and relationships
+Oh, just taking it one day at a time.	none
+I understand. Do you mind if I ask about some of your daily routines? 	interpersonal interactions and relationships
+Not at all, what do you want to know?	interpersonal interactions and relationships
+How do you feel about getting dressed in the morning? Is it an easy task?	self-care
+Oh, putting on my clothes is much easier than taking them off.	self-care
+Why is that?	communication
+Well, to put it bluntly, I have trouble with my shoulders. I can get my shirt and pants on without much fuss but taking them off can be quite a struggle.	self-care
+I see. Do you have a particular time of day that getting dressed	none
+--------------------	--------------------
+Hello! How are you feeling today ?	communication
+Oh, not too bad. My knee's been a bit sore today.	self-care
+Sorry to hear that. Has it been affecting your daily routine?	general tasks and demands
+Actually, yeah, with my sore knee I haven't been taking my phone off the charger at its usual charging spot.	general tasks and demands
+Oh, I'm sorry to hear that. How often do you move around your house?	mobility
+Well, I try not to go up and down the stairs soon after waking up or rightit during a respiratory frequency flare-up..	mobility
+Gotcha! But what time do you go down and up the stairs regularly?	mobility
+Normally I accumulate steps on slow steam away experiments evertyday so there	none
+--------------------	--------------------
+How have you been doing lately?	communication
+Oh, I'm fine. Just found it harder to do certain things.	self-care
+Let me know what those are.	communication
+Well, drying and dressing myself has been an ongoing issue lately.	self-care
+When do you usually dress yourself?	self-care
+Generally in the morning after shower; that's when it gets bothering these days,	self-care
+What part exactly is troubling you the most?	communication
+My back, specially the low back.	self-care
+Have you introduced pillow-placing and bathing method to your shower routine by any chance?	none
+Yeah, I strictly manage myself traditional daily intense srevices fortified by softer leisure activities interlaced into my therapy italiens mars, noon walks.	none
+--------------------	--------------------
+Hi, how have you been lately?	interpersonal interactions and relationships
+I've been okay, just feeling a little tired recently.	self-care
+Have you been keeping up with your meals and self-care activities?	self-care
+Yes, I try to be mindful of it. Sometimes it's hard with my arthritis.	self-care
+Oh, I bet. Can you tell me a bit about how you usually cut your food during meals?	self-care
+Well, I suppose it varies. Sometimes my hands cramp up so much I struggle just to use utensils. Other times it's okay, but I have to take it slow and steady.	self-care
+That sounds difficult. What about using cutlery? Do you have any issues there?	self-care
+Sometimes holding silverware is	none
+--------------------	--------------------
+How do you usually start your mornings?	major life areas
+Hmm..I start the day off by simply bedding already out. sometimes eat my breakfast.	self-care
+Great! Do you easily feed on your own or someone helps you out?	self-care
+I can feed wearly everyday but sometimes somebody assistance . about servemonthsnest when I injured my left sword qualitydifficull.	self-care
+That sounds tough. When do you usually take showers on a daily If the seven days arrive forth-sown the normal causes fur incisions some raceofrestjuli	self-care
+basis? 	self-care
+Sadly I recently trip lay more often on etape to the borSze areaudleroomareplaceany wasaemottthingrodfiprocudd	none
+--------------------	--------------------
+How's your day going so far? 	none
+It's going good. 	none
+Good to hear that. Have you eaten anything today? 	none
+Yes, I so far have had my breakfast. 	self-care
+Oh that's great! can you walk me through what exactly you had for breakfast? 	none
+For breakfast, I had a toast with butter and a cup of coffee. 	self-care
+Did you cut the toast and put butter on it yourself? 	self-care
+Yes, I did everything by myself, I use a butter knife to put butter on the toas. 	self-care
+That's really great. Next, after finishing your breakfast, did you drink your medicine yourself or did someone else help you?	self-care
+--------------------	--------------------
+How was your day, did you have a good one? 	interpersonal interactions and relationships
+It was alright, thanks. 	interpersonal interactions and relationships
+That's nice. Have you had breakfast this morning? 	self-care
+Yes, every morning I do. 	self-care
+What's your usual breakfast? Is there something you couldn't prepare? 	domestic life areas
+Today, I had oatmeal, which is something I can prepare for myself if the oats are already prepared, that is. If not, sometimes that turns into a hassle. 	domestic life areas
+Do you ever have trouble cutting or moulding your food on your own? Say... with forks or knives? 	self-care
+It definitely help when half a meal is already preparation: cut down apples rather that ordinary pips!	domestic life areas
+--------------------	--------------------
+Hey there, how was your day today?	interpersonal interactions and relationships
+It was okay, not much to mention. I had difficulties with lunchtime.	major life areas
+Lunch? what happened?	interpersonal interactions and relationships
+All I had was soup and it was too hot to eat properly.	self-care
+Did you make it yourself or did somebody offer it poorly heated?	interpersonal interactions and relationships
+I had some leftovers from last night. I microwave it longer than usual. 	domestic life areas
+--------------------	--------------------
+I noticed how well-dressed you are today! Did you get dressed by yourself this morning?	interpersonal interactions and relationships
+Indeed, I did. With little bit effort alongside some repositions may how hard walking moving can do me. I ware long- sleeve closed pajama tops with black paints.	mobility
+That's great! Was there any difficulty in choosing clothes and buttons?	self-care
+No issue. Round collar held prominent rather stood beside when making sure the top naturally removable coordinated through hood provision and using right starting queue in assembly sequence forth.	self-care
+I see, how about taking a shower earlier at which Batiste fits your wash?	self-care
+Maybe done such refill quickly since wants to work dress farther.	self-care
+That's interesting. So, are meal	none
+--------------------	--------------------
+Hey, can I sit down and talk with you for a bit?	interpersonal interactions and relationships
+Sure, of course. I'd be happy to. How have you been?	interpersonal interactions and relationships
+Good, good. I've been meaning to check up on you-- how have your daily life events been?	major life areas
+Well, not so easy to manage if I'm honest, but I have someone to help out here and it solves half of it. What'd you mean exactly?	major life areas
+I wondered whether preparing something really limited your capabilities, such as cutting a rather difficult food for a packed lunch or doing meal started to demands superhuman strength.	domestic life areas
+Yes, there are times when food is not found easily pre-chopped , you won’t see eye-to	none
+--------------------	--------------------
+How was your day, did you do anything fun today?	interpersonal interactions and relationships
+Not really, just some shopping as usual from the local grocery store and then returned home. 	domestic life areas
+Sounds like a routine, it's important to take care of you as well! Are you able to dress yourself in different clothes or do you stick to comfortable ones only? 	self-care
+Well, mostly I wear gowns or outfits having large buttons due to grip issues with little experience in pairing up clothing items. 	self-care
+That makes sense. Also, do you able to prepare your standard meals themselves sufficient in terms of health?	domestic life areas
+Yeah, I try my best to ensure sound balance while at having my schedule planned which nowadays focus more onto repetitive dishes come breakfast	domestic life areas
+--------------------	--------------------
+Hi there, how have you been?	interpersonal interactions and relationships
+I have been okay. Just struggling with some of my daily routine activities.	self-care
+That sounds tough. Can you give me an example?	none
+Sure, well, I struggle with eating meals by myself.	self-care
+Oh, when and how does that occur?	none
+Mostly at dinner when I am alone, some stuff can be difficult to cut and I tend to spill quite a bit of food while I eat.	self-care
+That can be quite frustrating. Have you tried using smaller cutlery and plates previously?	none
+Yeah, I have tried but they seem too awkwardsmall to hold. I am thinking about starting fingerling eating.	self-care
+Have you consulted with your care	none
+--------------------	--------------------
+Have you been keeping up with your daily routines, like eating and dressing properly? 	self-care
+Oh yes dear, I've been trying my best to take care of myself as well as the event this follows as well during the normal course of my day!	self-care
+That's great to hear! Could you walk me through how your meal times look like? 	self-care
+Well I typically take breakfast before eleven o'clock by pouring cereals neatly into a bowl beforehand with some chopped fruits of preferable suit beside trying not to fill myself too much. Also grabbing the two crystal-covered spoons waiting for use right before moving closer with a toaster readily set for cooking what always satisfies me….. FISH SANDWICHES,milk down and with mass meetings	none
+--------------------	--------------------
+Have you been doing alright lately?	interpersonal interactions and relationships
+Oh, just living day by day.	major life areas
+I hear ya, have you had trouble with eating recently?	communication
+Actually, now that you mention it, I do feel a bit sluggish sometimes.	self-care
+When is it typically hard for you to eat?	communication
+I seem to struggle most with dinner. 	self-care
+Hmm, does cuttingusing utensils cause any difficulty?	self-care
+On occasion. But since I started using an adaptive utensil set, that helps.	self-care
+Right, that's great. When do typically take your meals at night time?	domestic life areas
+Usually around 6 PM as per my patterns.	domestic life areas
+That makes sense. What typically gets easier about the nightly	none
+--------------------	--------------------
+Are you enjoying your meal, Mrs. Johnson?	communication
+Indeed, but it's getting harder to finish my meal these days. 	self-care
+Is it because of any pain?	communication
+No. Maybe in my younger days, I had no problem with cutting food into smaller pieces. now with my hands slightly more firm and shaky, it's starting to become a weakness of mine.	self-care
+How long ha sThis problem been bothering you?	communication
+Only started a Year ag  but food issues like being mannerly roperthe label something Tiff-Biggner that's etloing higherid weai meal-wir laplLuch.eans and cus Itually fincer to lf-my far matl cr	none
+--------------------	--------------------
+Hi, how are you today?	communication
+I'm feeling okay, just taking it easy.	none
+That's good. I've been wanting to know how you've been handling things at home lately with your self-care activities.	self-care
+Well, some things have become difficult.	self-care
+Can you elaborate? 	communication
+For example, I cannot cut food into pieces for myself, to cut anything and using utensils has become hard lately, It happens lately since last month 	self-care
+That's understandable .How about bathing? Do you need assistance with that still ?	self-care
+Yes , I have hard time managing stuff during shower and I wander in bathroom due to absence of solid grips. 	self-care
+Have you ever hear about variety of	none
+--------------------	--------------------
+Hi! How was your day today?	interpersonal interactions and relationships
+Hello! It was going well, thanks for asking.	interpersonal interactions and relationships
+That’s sounds good. How about your self-care activities going on today’s daily routine?	self-care
+Yeah! Actually, I took my shower in last morning. It offers ease to get other things done.	self-care
+How frequently you take showers in a week.	self-care
+It’s mostly twice a week due to using hot water too much weakening the strength of my internal metabolic system, I learned this form when I stuck neck cord from stones during shower in the my foot balance was subtle firm also slightly imbalanced putting next few steps in instability need so support needing fatigued frequently takes so others be honest helped do suggests fix	learning and applying knowledge
+--------------------	--------------------
+How have you been managing yourself lately, do you have a routine to take care of yourself?	self-care
+Yes, I have a usual routine to do it.	self-care
+Could you tell me more about that, especially the essential ones?	self-care
+In the morning, I get up early and brush my teeth. After that, I go to have my breakfast.	self-care
+Donna prepares It or do you cook your meal for yourself?	domestic life areas
+For the most important meal of the day, haven't you try the delicious cake i made yesterday?	domestic life areas
+Actually you got me wishing for it now! but let 's stick to the topic. When it comes to having meals, do you experience difficulty with it?	self-care
+Using dimmed light	none
+--------------------	--------------------
+How have you been doing, lately?	none
+Things have generally been good but activities can be challenging these days.	general tasks and demands
+What kinds of things have you found difficult? 	general tasks and demands
+You know, everyday self-care activities like eating with utensils has proven hard for me. 	self-care
+Why is that way? 	communication
+Though I can usually manage scoff correctly, It's uneasy for me to manipulate with knife, forks and spoons around one hand. particularly when preparing individual parts of the dish.	self-care
+Oh i see. 	none
+ Those types of situations when one carelessly ends up an undersized and unstable creaside while mingling food pieces definitely only augments and leads towards disorder sine one small part will	none
+--------------------	--------------------
+Hey there! It’s great to see you again.	interpersonal interactions and relationships
+Yes, always happy to see you too.	interpersonal interactions and relationships
+So how have you been taking care of yourself lately?	self-care
+Oh, it has been a bit tough. I can still look after myself, though it’s getting frustrating.	self-care
+Can you tell me more about how what has been bothering you the most?	communication
+Some ordinary chores, tasks that used to come easy, right now even simple events like tapping cutlery on the table before I use them or dividing dinner into little parts everything becomes sort of inconveniences... 	domestic life areas
+When do these meal changes occur? Breakfast, Lunch or dinner?	domestic life areas
+Honestly, all of them! but especially during lunch	domestic life areas
+--------------------	--------------------
+How was your day? Do you wanna share with me about your daily life?	interpersonal interactions and relationships
+Well, it was just an ordinary day. Nothing special to point out.	none
+Actually, I really wanna know about your ability to do daily tasks. You have admirable resilience, living alone and away from your family.	interpersonal interactions and relationships
+I try my best to complete my daily tasks without sacrificing on safety and hygiene. 	general tasks and demands
+That 's amazing! Which daily task do you feel comfortable with when living alone?	interpersonal interactions and relationships
+Having meals usually counters s difficult task so I do home deliveries. Chopping vegetables and cutting foods into small pieces that require fine motor, e.g just cutting apple makes me feel tired. Spreading butter using table knives worksed	domestic life areas
+--------------------	--------------------
+Hey! Looks like it's been ages since we last spoke on the phone. How have you been, my dear friend?	interpersonal interactions and relationships
+Hi there! I am doing fine. Just dealing with some of my old- age problems, you know. Sometimes the simplest and easy- peasy stuff can be mostly dreadful, given all the bits an exercises procedures one has to undergo…	self-care
+May I know more about your day today? What did you do? 	none
+Sure thing – well, first the usual early sunny appointment and breakfast catch mentally checking his different actions corresponding events, scruffy beard clad type walk routine with the rapid uncertainty of basic senses held to tackling glasses clothes and coffee while standing at random points throughout the house	domestic life areas
+--------------------	--------------------
+Hey, how have you been doing lately?	interpersonal interactions and relationships
+I do not know young one, can’t move as I used to be..these elderly knees!! hmm sorry can you pls reminder about uhm-brey-sfy  what-and-who topic.. it sounds very exiting!br	mobility
+Sure! We were talking about a few events that involve self-care such as eating. Can you tell me more about that? 	self-care
+Why yes, I can talk for hours about these thingers adultz won't guessed it yearsned bring some beef tong huh! To answer honestly young one. I often use teaspoons than hactual forks now.@medialaughned:: 	none
+Very interesting. And how about cutting your	self-care
+--------------------	--------------------
+How's your day going today?	interpersonal interactions and relationships
+It's been nice thus far.	interpersonal interactions and relationships
+Have you had your usual breakfast this morning?	self-care
+Yes, I usually have a bowl of cereal with milk.	self-care
+Oh, that's great. Do you have any difficulties in pouring the milk?	general tasks and demands
+No, the 4-ounce container size is ideal for me.	general tasks and demands
+That sounds perfect. Do you use a spoon with your cereal or do you easily hold food now?	general tasks and demands
+I tilt the bowl to my mouth now.	mobility
+Thanks for telling me that. Do you manage your clothes nowadays as usual patterns?	self-care
+Yes, I dress myself already.	self-care
+How about tying shoelaces daily? 	general tasks and demands
+--------------------	--------------------
+How is your daily routine nowadays?	major life areas
+Oh, it's the same old thing. Just taking care of myself as usual.	self-care
+That's true. I'm curious though - do you have any challenges with self-care?	self-care
+Well, pouring liquids is not the easiest task these days.	self-care
+Really? How come?	none
+My hands shake a bit sometimes and it's hard to stabilize the pitcher or cup.	self-care
+Ah, I see. How do manage to accomplish that task?	self-care
+Usually I ask for help or try bracing myself against like a surface.	self-care
+What kind of liquids are you pouring?	domestic life areas
+Water and juices mainly, I need to get fluids into me of course.	self-care
+--------------------	--------------------
+Hi there, how are you feeling today?	communication
+I'm feeling okay today.	none
+That's nice. So do you often drink water throughout the day?	none
+Yes, I try to drink a full glass of water with each meal.	self-care
+That's great. And how do you usually refill your water cup?	domestic life areas
+Usually, I scoop the ice into the glass and refill it once I finish the previous glass.	domestic life areas
+Do you ever have difficulty gripping the ice scoop or pouring water into the glass?	none
+No, fortunately, drinking, pouring liquids are ok straight fowardself explain this should to continue,	none
+Ahh that's pretty smooth. Do you manage to stir drinks well?	communication
+Yes,	none
+--------------------	--------------------
+Hey there, how are you doing today?	communication
+Good, good. It's been an eventful one.	communication
+Oh yeah? What was planned for today??	communication
+I had a few errands to run in the morning and then looked after all my activities related to self-care.	general tasks and demands
+Ow! Refresive, -By beverage? ... Where, did you refillposture assistance from your armstrength yourself? 	self-care
+Yeah, through breakfast I drink whole-milk and dringed fruit juice. Rather on the begining water first gently loosening the seal twisting and Opeming. Expert hygiene drinkig avoid Don to much using plastic to speed wetly splilled it is important too.—kindly asked wife waking	communication
+--------------------	--------------------
+Have you been taking care of yourself lately?	self-care
+What do you mean by taking care of myself?	self-care
+For instance, do you find it easy to pour liquids into cups and drink water?	self-care
+I’ve been having some trouble with that actually. It strains my hands to have to hold glasses too.	self-care
+And how about dressing yourself?	self-care
+That becomes painful as well, particularly transferring weight in order to put a shirt on	self-care
+And what do you do for drinking liquids now to make it less painful?	self-care
+I usually wait until someone is around to pour drinks out of larger bottles into cups so it can be bit easier for me to drink	self-care
+Anything new you have done for overcoming difficulty accessing beverages	none
+--------------------	--------------------

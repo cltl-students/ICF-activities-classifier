@@ -1,0 +1,276 @@
+utterances	labels
+Today is always a busy day for me!	general tasks and demands
+Really? Why? 	none
+Because I’m washing laundry for The Johns this morning. 	domestic life areas
+Do you wash it every week?	domestic life areas
+Yes, This It's included on my activities actually.	domestic life areas
+How many loads are you doing today?	domestic life areas
+Just a few loads of Regular cleaning clothes. 1-2 delivery by evening Can you write it on my checklist? 	domestic life areas
+Sure, I can do that. Do you have anything else scheduled?	general tasks and demands
+Oh yes, I need to clean the dining room by noon as there's an appointment. 	domestic life areas
+Okay, but mind me letting someone know to assist you with your cleaning. 	general tasks and demands
+That'd	none
+--------------------	--------------------
+Can you tell me how you usually manage cooking your meals?	self-care
+Well, I used to cook my meals every day, mostly at dinnertime but now it seems quite challenging since I struggle more with standing up for longer periods while cooking.	self-care
+When did you start to feel difficult cooking?	none
+I feel like I can't stand up for an extended amount of time anymore, mainly due to muscle fatigue and joint pain. So starting with maybe a couple of intermittent times throughout my days, and now, almost every night, it impacts my stamina getting dinner for myself poorly.	self-care
+How about grocery shopping, how frequently can you go these days?	domestic life areas
+Grocery stores going out shopping regularly is also more challenging because of what seems	domestic life areas
+--------------------	--------------------
+Have you been doing anything interesting lately?	none
+Well, I have been trying something new, making my breakfast.	domestic life areas - cooking
+Oh, that sounds great! What kind of breakfast have you been making?	interpersonal interactions and relationships
+I try to switch between making omelettes and scrambled eggs.	domestic life areas - cooking
+That's good! How do you usually make the omelette or scrambled eggs?	learning and applying knowledge - cooking
+Yes, I beat two eggs in a bowel with cheese, add salt and pepper and mixu all of ingredients and then put it in the frying pan.But sometimes I burn eggs in th pan.	learning and applying knowledge - cooking
+Breakfast is definitely the most important meal of the day. At what time do you usually eat breakfast? 	none
+Normally, I like to	none
+--------------------	--------------------
+How are your daily efforts to keep things tidy? 	self-care
+Whenever I get the energy at chore interval slots provided.	domestic life areas
+How many intervals can there be during the day?	domestic life areas
+Either an hour after lunch, late afternoon, andearly evening was imposed; or whichever works enough accumulated weights to mutually admit as valid dismissal path nodes at explicit-choice instants.	domestic life areas
+Oh I understand, can you tell me a little bit more about household appliances you use? 	domestic life areas
+Their gain only continues certain forms , in forming addition choices,but I nurse adequate identity pieces when mastering daily skill units from time suiting this life-zone occupancy.	learning and applying knowledge
+--------------------	--------------------
+What did you do yesterday, P?	none
+I was busy doing housework. It's always my schedule every Friday.	domestic life areas
+What kind of housework do you usually do on Friday?	domestic life areas
+I dusted the house, changed the bed sheets and blankets, cleaned the bathroom and washed kitchen utensils.	domestic life areas
+That sounds like a lot of work. When did you start?	none
+I began around 8 o'clock and finished almost at noon.	domestic life areas
+Wow, that's quite a while. Did it tire you out doing all those tasks?	none
+Well, to some extent. But it's necessary if I want to maintain comfort in the house.	domestic life areas
+I can	none
+--------------------	--------------------
+What did you have for dinner yesterday, P? 	none
+I usually cook pasta or rice and vegetable for me religiously. I prepare meals for two days at a time. 	domestic life areas
+When do you do this?	none
+Once I purchase the items in bulk, I prioritize chopping, cleaning and boiling all the fruits and vegetables once I reach back home from work.	domestic life areas
+Do you enjoy cooking? 	none
+To be honest, my elder son comes to help anytime if possible but I love potatoes and frittatas only - so it works out with walking-chop.	domestic life areas
+--------------------	--------------------
+What did you do today at home?	domestic life areas
+I woke up early this morning and prepared breakfast for myself.	domestic life areas
+That sounds nice. What did you have for breakfast?	interpersonal interactions and relationships
+Just some toast with jam, eggs and coffee.	domestic life areas
+Did you make a plan for meals earlier already?	domestic life areas
+Yes, I did. I usually make a plan at the start of the week. 	domestic life areas
+oh I see , when do you prepare the food then?	domestic life areas
+After buying the necessary ingredients, I tend to enjoy both cooking andeating severalrecipesnext to each other either on Sunday evenings or Monday.I find thatcan eat different dishes throughout the weeksince ilikevarietyquite much : 	domestic life areas
+That's understandable.	none
+--------------------	--------------------
+Hi there! How are you feeling today?	communication
+I feel fine, thank you. And you?	communication
+I'm good thanks. So tell me, what have you been up to today?	communication
+Mostly just my regular chores around the house.	domestic life areas
+What kind of chores have you been doing?	domestic life areas
+Oh, I washed some dishes and swept the kitchen this morning. After that I took a nap, and then I folded some laundry in the afternoon.	domestic life areas
+How often do you typically go through your daily routine of dishes and sweeping the kitchen like that?	domestic life areas
+Oh, I usually do it right after breakfast every day.	domestic life areas
+And how about laundry? Do you find that you stay on top of washing and folding	domestic life areas
+--------------------	--------------------
+Hi there, how are you today? What have you been up to lately? 	communication
+I'm doing fine thank you. Earlier today, I was busy with some household chores. 	domestic life areas
+Oh, I see. What kind of chores were you doing? 	communication
+I started with the laundry. I usually do it once every two weeks or so. 	domestic life areas
+That's actual typical.	none
+Yeah it saves us time, money, and energy. Primarily, after washing clothes, I hang give priority to different sub-groups e.g colors in washing line hang those can be mishandled unless deliberately. 	domestic life areas
+Gotcha.	none
+P & F pause talking until appropiate time[]	none
+hm hm meanwhile 	none
+--------------------	--------------------
+How was your day, did you do anything interesting?	major life areas
+Well, I did some cleaning and laundry today.	domestic life areas
+What kind of cleaning were you doing?	domestic life areas
+I washed the dishes, swept the floor and dusted the furniture.	domestic life areas
+When do you usually do your cleaning?	domestic life areas
+I usually clean a little every day to keep it manageable.	domestic life areas
+That's smart, how about laundry?	domestic life areas
+I wash my laundry once a week on Mondays.	domestic life areas
+Do you sort the clothes into colors or use any particular washing powder?	domestic life areas
+Yes, I sorted them by color and used my usual washing detergent.	domestic life areas
+Do you have someone help you with these tasks?	interpersonal interactions and relationships
+No, I can manage it	none
+--------------------	--------------------
+Hey, how have you been doing lately?	interpersonal interactions and relationships
+I've been alright, just trying to keep up with everything around the house.	domestic life areas
+What kind of things have you been focusing on in terms of domestic life?	domestic life areas
+Mainly preparing meals and trying to stay organized with cleaning.	domestic life areas
+That sounds like a lot to handle. Can you tell me more about meal preparation?	domestic life areas
+Sure, I've been trying to plan ahead by making a menu for the week. It helps save time and ensures I have all the ingredients I need.	domestic life areas
+When do you usually do the menu planning?	domestic life areas
+I usually allot a few hours in the beginning of the week to plan it all out, like on Monday morning.	domestic life areas
+--------------------	--------------------
+Can you tell me about how you prepare your meals?	domestic life areas
+Sure, I usually make breakfast around 8 in the morning. For lunch I just eat some leftovers or make a sandwich.	domestic life areas
+That's interesting, how do you usually make your breakfast?	domestic life areas
+I typically just make pancakes or scrambled eggs. Occasionally I'll make oatmeal or cinnamon rolls from scratch.	domestic life areas
+Do you eat your meals in a certain area of your house?	domestic life areas
+Yes, I always eat at the table in the kitchen. It keeps me from making a mess elsewhere and makes me feel more comfortable.	domestic life areas
+What does your laundry routine look like?	domestic life areas
+I typically wash clothes every other day using our	domestic life areas
+--------------------	--------------------
+How do you usually spend your day, what do you do?	major life areas
+First thing in the morning, I take a shower. Then, I prepare some light breakfast.	self-care
+What do you usually prefer eating in the morning?	domestic life areas
+Usually, toasted bread with butter or jam, with a cup of coffee.	domestic life areas
+Do you cook or usually eat something from second hand?	domestic life areas
+Fortunately, I’m not completely dependent on fast food; I know a few tricks to cooking an easy meal using only fresh produce.	learning and applying knowledge
+When do you usually practise cooking?	domestic life areas
+Mostly evenings for breakfast and better meal for sure.	domestic life areas
+What kitchen gadget you mostly ve?	domestic life areas
+I thankfully now have anti slip dishwasher which makes my task	domestic life areas
+--------------------	--------------------
+How is your day going, how was your morning?	interpersonal interactions and relationships
+I had a troublesome start. It happened again, the fridge indicator did not cool and had blink-in pause wrangle for a moment before opening the cans and got it cheap.	domestic life areas
+When did this happen?	interpersonal interactions and relationships
+It’s occurred always early at morning, especially eve day before pizza delivery night. Have gone through many times before exchanging indicator tubies.	domestic life areas
+Have you tried helping yourself fixing the indicator on your own?	learning and applying knowledge
+One time, I just tampered getting caution out and left mechanism hanging, real-life breaker with knowledge ceased plus handled in life process till done wrong.	general tasks and demands
+Why didn't it 'cause a death electrominescier ? Aren	none
+--------------------	--------------------
+What did you today?	none
+In the morning, I woke up and tidied my bed.	domestic life areas
+That sounds good, how often do you make your bed?	interpersonal interactions and relationships
+I make it every day after I wake up.	domestic life areas
+What did you do after that?	none
+I washed my face and brushed my teeth.	self-care
+Right, and after that did you prepare your breakfast?	interpersonal interactions and relationships
+Yes, first I checked everything I had in the fridge, then I fried an egg and toasted a slice of bread.	domestic life areas
+Sounds simple and delicious! How about after breakfast, is there anything you do then?	interpersonal interactions and relationships
+After breakfast, it's time to clean up the kitchen.	domestic life areas
+--------------------	--------------------
+Hi how was your day today? 	communication
+Hi, it has been quite busy. I had to wake up early today to prepare my breakfast.	domestic life areas
+That sounds like a great start to your day. What did you cook for your breakfast? 	communication
+Yes, breakfast seems to be the most important part of my day. This morning I made some eggs and brewed some coffee.	domestic life areas
+Oh, nice choice. Don't forget though, eggs are a perishable item, do you remember when you purchased them?	learning and applying knowledge
+Hmm, good point, I always forget when I bought them. I think I got these ones from the market last Wednesday.	learning and applying knowledge
+No worries, maybe recording the purchase date in front of the eggs tray	domestic life areas
+--------------------	--------------------
+Do you often cook at home, any recent cooking you've done?	domestic life areas
+Yeah, I'm used to cooking meals twice a day at home. Maybe I cooked a vegetable curry last night for dinner.	domestic life areas
+How do you plan out your mealsmake your grocery list?	domestic life areas
+Unfortunately, I cannot remember and plan that out anymore, I usually run out and lock down foods.	domestic life areas
+Oh ok, do you need help with grocery shopping or meal planning then?	none
+Yes, It gets hard sometimes.	none
+How about the laundry, do you handle it yourself or do you have someone taking care of it?	domestic life areas
+I usually do it when my attendant falls short, It wouldn't be something else she could easily clue	domestic life areas
+--------------------	--------------------
+What did you do throughout the day, sir?	none
+I woke up early in the morning and brushed my teeth first. 	self-care
+What's next?	none
+I headed to the kitchen and made tea for myself.	domestic life areas
+That sounds great. Did you gut your kitchen clean before cooking?	domestic life areas
+Yes. I did but first finished drying my utensils from yesterday.	domestic life areas
+F; So did you prepare breakfast after that?	none
+TypPezly. It's a tradition now to watch favorite news channel every morning during breakfast	none
+That sounds like an exceptional idea. Did you have to refill your grocery's stock today?	domestic life areas
+P; Yeah, I got seeds stock from the grocer after the breakfast.	community, social and civic life
+Let me	none
+--------------------	--------------------
+What did you usually do for lunch at home?	domestic life areas
+Normally I would reheat my leftovers or make a  sandwich.	domestic life areas
+What about when you can't find the food that you planned to heat up?	domestic life areas
+Usually then I would cook something fresh.	domestic life areas
+How often do you cook?	domestic life areas
+I usually cook about three times a week, more on weekends.	domestic life areas
+And how do store food when you cook a larger serving?	domestic life areas
+I divide and store them into different packets in the  refrigerator.	domestic life areas
+How about laundry then?	domestic life areas
+I would do it once a week.	domestic life areas
+Could you describe your laundry routine?	domestic life areas
+I collect all our clothes first then put it on the	domestic life areas
+--------------------	--------------------
+Hi! It's good to see you again. How are you doing, today?	interpersonal interactions and relationships
+Morning! I am doing good.	interpersonal interactions and relationships
+Have you prepared breakfast this morning?	domestic life areas
+Yeah. As usual, I fried an egg and consumed toast with a small glass of squeezed lemon juice.	domestic life areas
+How do you usually go about making breakfast?	learning and applying knowledge
+Since waking up early as well as scattering and pain when standing too long could happen in the kitchen, I always request my granddaughter to stay with me and prepare Basic demands upon of them rest to accomplish action For my breakfast,specifically; egg and toast throughout cooking With hearing appliances. I'm mainly responsible on Cutting bread and allow granddaughter character usage of hot-plate.	general tasks and demands
+--------------------	--------------------
+What keeps you busy these days? 	major life areas
+Oh, just taking care of things around the house like the houseplants and my pets. 	domestic life areas
+When do you tend to them? 	domestic life areas
+I used to do it in the morning, but now with my arthritis I tend to do it in the afternoon when I feel less stiff. 	self-care
+How do you usually maintain and clean the houseplants , do you have any specific methods? 	domestic life areas
+I usually wipe the dust off the leaves once a week and sprinkle some fertilizr mixed water every spring. 	domestic life areas
+And how do you take care of your pets more specifically? 	domestic life areas
+Making sure they have clean water and a pleasant environment, brushing their teeth so	self-care
+--------------------	--------------------
+What do you usually do during these days?	major life areas
+I dedicate my time to maintaining household since I live alone.	domestic life areas
+So you're basically required to take care of all the household chores by yourself?	domestic life areas
+Yes, that's true. Recently, I've had a water leak in the kitchen, and it caused damage to some cabinets.	domestic life areas
+Oh, how did that happen?	none
+I'm not sure, but when I noticed it, water was already flooding. Some corners of the kitchen still need repairs.	domestic life areas
+Did you try to do anything to solve it on your own, like patching the leak with different materials?	domestic life areas
+I'm not a handy person, and nor do I have tools and stuff needed for	none
+--------------------	--------------------
+How has your routine been lately?	major life areas
+I have been trying to do everyday tasks on my own. 	general tasks and demands
+That's wonderful. What specific tasks have you been handling independently? 	general tasks and demands
+Well, I clean my dishes, make my own lunch and have been watering my plants for the last few days.	domestic life areas
+Do you require any help doing activities like cleaning or cooking? 	general tasks and demands
+Not very often, but some chores do restrict me from carrying them out properly and quickly.	general tasks and demands
+Oh, I see. What kind of tasks specifically give you difficulty finishing them? Can you tell me more about how you solve tasks you have problems with?	general tasks and demands
+Doing laundry and driving few errands to attend doctors' appointments waste	community, social and civic life
+--------------------	--------------------
+Hi there. I am happy to hear from you today. How are you doing couple days ago?	interpersonal interactions and relationships
+I am okay. But, last couple days, I must water many new plants because my daughter bought a lot of plants. 	domestic life areas
+Great, as an old plant lover. Can you tell more about how do you normally taking care to those plans? 	learning and applying knowledge
+Well, once a day, I trying to avoid the morning and afternoon streme. After the shade ir just a bit cooler outside, I usually set up hose with light pressure and watering all of the plant one by one and them add soil mat to soluld retain moisture. 	domestic life areas
+So, protecting the plant get an optimal condition is part of delicate job	general tasks and demands
+--------------------	--------------------
+Do you need any assistance at home?	domestic life areas
+Not really, I can manage most things on my own, but sometimes I do need help with the yard.	domestic life areas
+What type of yard work do you need help with?	domestic life areas
+Just basic gardening, like watering and trimming the plants.	domestic life areas
+How often do you trim the plants?	domestic life areas
+I do it myself once a month, but sometimes I need help towards the end of the year when it gets colder.	domestic life areas
+And what about household repairs? do you need help with those?	domestic life areas
+Yes, sometimes. I recently had a leak in my kitchen sink that took ages to be fixed. I couldn't have used the sink and needless to say, it was a real pain	domestic life areas
+--------------------	--------------------
+So, how has life been at home lately?	major life areas
+Well, I've been keeping busy. I have to water my plants every other day because they tend to wilt in this heat.	domestic life areas
+Watering plants every other day? How many plants do you have?	domestic life areas
+Oh, just a few around the house. I like having something to take care of.	domestic life areas
+That's nice! Do you enjoy working on other projects around the house as well?	domestic life areas
+Yes, I like fixing what’s broken. The other day, I realized that the kitchen tap was leaking for far too long. I dismantled and fixed the tap during downtime.	domestic life areas
+Lovely on one hand bad other hand, I worry that managing these households needs	none
+--------------------	--------------------
+Good afternoon! How was your day today, what events happened?	none
+The day was normal and busy as my son left cupboards open.I usually look after them and remind moving things either behind them.	domestic life areas
+When do you require to follow-up cupboards?	none
+I observe during my routine cleaning time. Once finishing one textile season, next time is the book cups.	domestic life areas
+On the repairing end, how do you take care of maintenance activities?	general tasks and demands
+My son is dealing with fixing day-to-day electric and device issues while extra white-collar or small-skilled jobs attract professionals on-demand service technique.Fixed it once.	domestic life areas
+taking care in household seem days I focus too much worry on minor-use remedies telling about experience sh	none
+--------------------	--------------------
+How did you mend the garden fence yourselves so beautifully though its gap was silly shrubs long spreading on one end?	general tasks and demands
+Ah my dear neighbor kid peeled out of their fathers corner many hammer nails and rusted fruits of been living simple citizens. Learning rising tide teaches.	learning and applying knowledge
+That's very impressive!, but what prompted you both to mend it without professional assistance?	interpersonal interactions and relationships
+Umm let's say no professional none time and couple loose screws much wandering need bit attachment smooth endeavor exhausted but times just waited crowdrarrous over a winds heard passage dust across mirror stains sunrise	none
+So I understand that you seized an opportunity and made the best out of it but was there any assistance required from anyone to mend	interpersonal interactions and relationships
+--------------------	--------------------
+So, how has the household been for you lately?	domestic life areas
+Well, it's been a bit challenging actually.	domestic life areas
+In what way?	domestic life areas
+One of the appliances in the kitchen has been acting up and I'm not sure how to fix it.	domestic life areas
+Do you know if it's a recent problem?	domestic life areas
+It started making strange noises a few days ago and it's only gotten worse since then.	domestic life areas
+Ah, that can be frustrating. Have you considered having someone take a look at it?	domestic life areas
+I actually tried fixing it myself initially, but I didn't seem to get very far.	domestic life areas
+I see. Well, I don't blame you there. While it's good to have a go, appliances	none
+--------------------	--------------------
+How are you doing today?	interpersonal interactions and relationships
+As usual, but almost every day my mornings get very hectic.	domestic life areas
+Oh really? How so?	interpersonal interactions and relationships
+Well, my cat kept me up late last night and I slept in. I didn't have any clean bowls for cereal, so I had to wash one. And then I noticed that the sink was also dirty so I wore out to do some dishwashing too.	domestic life areas
+That sounds busy	none
+Suddenly realized have turned late! so trouble finding my watch while getting dressed added some uneasy five anxious minutes.	domestic life areas
+Do you need any assistance?	interpersonal interactions and relationships
+Fortunately no one shares living room with me they were headed outside for everyday movements, or they would have got frustrated throughout whole hassle	domestic life areas
+--------------------	--------------------

@@ -1,0 +1,638 @@
+utterances	gold
+He, did you bike to work today?	mobility
+I actually went by car because I felt tired when I woke up	mobility
+I went for a long walk with the dog, in the rain. That was nice	mobility
+Walking in the rain can be nice indeed	mobility
+Sometimes I walk to work but that takes even longer	mobility
+Walking to work is really exhausting for me	mobility
+I really prefer to take the train or go by car	mobility
+I usually take the bike when I go to work	mobility
+Yesterday I went for a bike ride to the beach in the sun, that was lovely	mobility
+lucky you! I thought there was to much wind to cycle	none
+Do you ever go for a long bike ride to the beach?	mobility
+I like taking long bike ride on the beach during sunrise	mobility
+I will ride you on my bike to the bus stop today, to catch the bus to the train station	mobility
+Maybe bike together to the bus? 	social
+It has been a while since I biked but sure!	none
+Biking can be very nice and relaxing way to exercise	none
+True, and it is a great way to explore nature	none
+But now with the electric bikes, it is getting more dangerous	none
+So many people now have electric bikes!	none
+But in traffic you have to pay more attention while biking	mobility
+Yes, and to stay safe you have bike with a helmet	selfcare
+That is correct, biking with a helmet is much better	mobility
+But I have bought a bike, and now take long rides also in the hills	mobility
+Oh that is great, I do too!	mobility
+We should go out more together on the bike, it will be fun!	social
+Yes, we should! Let's plan for a activity next week	social
+I am free next week and would love to plan a bike-ride together	social
+Great, I will look for a nice scenic route we can take	none
+Thanks! Looking forward	none
+But now, I have to hurry for the bus, let's go	none
+--------------------	--------------------
+getting older I notice I don't like taking the buss as easy as I did before	none
+what wrong with taking the bus? can you not walk to the bus stop anymore?	mobility
+that's allright. I can walk to the bus stop	mobility
+is it difficult to climb in the bus than?	mobility
+hmm, no it is also fine to climb in the bus	mobility
+okay, getting there; are you able to find a seat when your in the bus?	mobility
+come to think of it; it's the ticketing system in the bus that changed	none
+why is the ticketing system a problem	none
+the changed the buttons on the ticketing system and now I have to ask people to help me	social
+ah, so you might need new glasses to be able to take the buss	none
+I think I will have my eyes checked!	none
+--------------------	--------------------
+What did you study?	major
+I studied law, but went in a completely different direction	major
+So what are you doing now?	none
+I have done additional courses focused on management in healthcare	learning
+Oh, and do you work in that now?	major
+Yes, my courses led to a management job in healthcare	major
+What education did you do then?	major
+A master's degree from the University of Rotterdam.	major
+Did you learn a lot from that?	learning
+Yes, a lot that I can now apply in my job	major
+--------------------	--------------------
+are you still able to take showers?	selfcare
+I used to take daily showers, but lately I only take a shower once a week	selfcare
+How come, you don't take daily showers anymore?	selfcare
+due to the pain in my legs I depend on support to shower	selfcare
+that's to bad, do you still enjoy having a shower?	none
+yes, very much, even though I need support and sit on a chair when showering	selfcare
+good to hear you are still enjoying the shower	none
+--------------------	--------------------
+Do you get help in household chors	domestic
+Yes.I get some help from my kids, they are teenagers now	none
+They help me with some  of the more simple tasks	domestic
+What kind of tasks do they help you with?	general
+They help me, for example, with vacuuming	domestic
+Are they also responsible for cleaning their own rooms?	domestic
+Yes, they are responsible for taking care of their own room	domestic
+That's helpful and also a good way to prepare themselves for doing the household on their own one day	domestic
+Yes, but there are still a lot of tasks to do	general
+Yes, true	none
+At the moment, I learn them to wash their own clothes	domestic
+That.s an easy one, since the wasking machine is doing the work	none
+Yes, but you still can do a lot wrong haha	none
+For exmaple, combining the white with the coloured wash	domestic
+Oops!	none
+--------------------	--------------------
+My wrist hurts when cooking food	domestic
+Oh that's annoying, how come?	none
+I think I have arthritis because my wrist seems thick	none
+How does that hinder you in cooking then?	domestic
+I am bothered especially when I am cutting ingredients	domestic
+Have you tried cutting with a brace on your wrist?	domestic
+that's a good idea, I'll give that a try	none
+yes, I would do that, it helped me a lot when I bruised my wrist	none
+Do you have a brace I can borrow for household chores?	domestic
+Yes, I will look it up for you	none
+many thanks!	none
+--------------------	--------------------
+I've known my best friend since kindergarten	interpersonal
+Oh, that's special; have you been close all this time?	interpersonal
+No, we lost track of each other for a while	interpersonal
+How come you got back together?	interpersonal
+I moved to the same town where she lives	interpersonal
+It must be nice to have her around again?	interpersonal
+Yes, it feels familiar	none
+I can imagine; I have that with a friend too	interpersonal
+We can easily meet up when we want to see each other	interpersonal
+Yes, that's really an advantage!	none
+--------------------	--------------------
+Do you go to trainings for your work?	learning
+With us it is all training on the job and by doing	learning
+What kind of training it it?	learning
+It's mainly project management and sales	learning
+In what area do you like to develop yourself?	learning
+I would like some more education in leadership skills	learning
+Do you plan to do a course? 	learning
+Yes, I am about to ask my boss 	none
+It would be great if you can start soon!	none
+Yes, I am always in for learning new skills	learning
+--------------------	--------------------
+It's difficult for me to get up from the toilet recently. 	selfcare
+Why so? Is it because your legs are weak?	none
+I can' tell why yet. I just feel I have to use my hands to grap something to help myself getting up.	selfcare
+How do you usually get up from the toilet? Do you lean your body forward and then use the strength from you feets to help yourself get up? 	selfcare
+I didn't pay attention to that accutually. I should try later.	none
+Yes, you can try this method, maybe it would help.	none
+--------------------	--------------------
+My kids haven't visited me for almost 2 months already.	interpersonal
+Maybe they are busy with their work, even though they also want to visit you?	interpersonal
+Yes, I think they quite busy and that's why I don't want to bother them.	interpersonal
+Maybe you can have video call with them. Ask how are they recently and tell them that you miss them.	interpersonal
+Good idea.	none
+If you want to spent some time with them, or having dinner with them. You can just tell them your idea. Or you can invite them to your place or visit them at their places?	interpersonal
+--------------------	--------------------
+Aren't you going to France this summer?	mobility
+Yes, I am as a mather a fact	none
+Have you made any progess with your French lessons?	learning
+I did, but I think I'll do better when I'll be there	none
+Do you really speak two languages now?	communication
+I would not consider myself a natural French speaker, but I can manage to order drink	social
+I would like to learn Spanish, I don't like to learn French though	learning
+Oh how interesting, did you already start to learn Spanish?	learning
+No, I did not start to learn another language yet, I have asked information about Spanish lesson	learning
+Really nice! When do you aim to start?	none
+Next summer, I will start to learn Spanish, hopefully in Spain!	learning
+--------------------	--------------------
+Did you already decide wether you will buy another bicycle?	major
+I have not, we are still thinking of buying e-bikes	major
+Yes it can be a difficult process, there are so many choices to consider	learning
+So true, the offer is enormous and it makes it hard to decide	learning
+I understand! What do you still need before you can decide?	learning
+I would like to talk to people to help me decide	learning
+I could help, I have some friends with e-bikes and they already made up their minds	general
+That would be awesome	none
+Wait, I will give you their numbers, I  will make it much easier to decide for you!	learning
+You like to make decisions in your work?	learning
+And do you also like to make decisions about your personal life	learning
+Let me think about it for a while and come back to you	none
+IThank you, I will think about it too!	none
+It is quite stressful, and I can feel overwhelmed.	none
+--------------------	--------------------
+Do you often meet with family when you have a day off?	interpersonal
+Yes, we are very close as a family and I enjoy spending time with them.	interpersonal
+Do you also go on vacation together?	interpersonal
+Ye, we go skiing together every year	interpersonal
+Oh nice, in our family we only see each other on birthdays	interpersonal
+Is that okay for you guys?	none
+Yes, we're not that close	interpersonal
+Do you have a brother or sister?	social
+I have a brother, but we rarely see each other.	interpersonal
+Does your physical disability have anything to do with that?	none
+Yes, I can't travel far and we live far away from each other	mobility
+That is unfortunate	none
+--------------------	--------------------
+Yes I did	none
+I also send you a text message	none
+yes, I saw that too	none
+Did you understand the text? and how come you did not answer?	communication
+I understood you perfectly, but suppose I did not have time and forgot all about it	communication
+My phone is quite old, it is hard to communicate with it	communication
+maybe ring next time. that is always quicker	communication
+So when you call me, I might not hear you	communication
+Let's make an appointment in that case	interpersonal
+Can you send me a text message if you want to tell me something	communication
+I will send you a spoken message instead	communication
+Otherwise you can try to call but I mights not answer	communication
+In that case I will take another turn	none
+Today I was in a Zoom meeting with my team, I still can not believe how well it works	communication
+For me, it becomes more difficult to understand all these communication possibilites	communication
+I can imagine, the developments of possibilities to communicate have increased so much	none
+I have bought an Iphone  but you have to help me understand how to use it	general
+Sure! I would love to show and help you out	none
+Can you show me how it works on yours?	none
+I will later today	none
+I heard from a friend that these phone can also make great photo's these days!	communication
+Yes they do, but we should not forget how important face-to-face communication is	none
+I agree, I have a hard time to understand all the communication on a phone?	communication
+So you prefer to talk face-to face?	communication
+Yes I do, but I am willing to learn all the new options to communicate!	communication
+That is great, especially on your age	none
+THanks! Talk later, I will call you with my new phone!	communication
+--------------------	--------------------
+yesterday I drove 1400 miles by car, which is almost a personal record!	mobility
+Wauw! I can imagine your were fatigued when you got home	none
+I should be fatigued after this drive, but I went straight into the gym	mobility
+that's tough! were you able to exercise after such a long drive?	none
+exercising was hard after the drive, but it did help me to get my blood circling	none
+so you felt refreshed after the exercises	none
+yes, I would recomend everyone to perform exercises after long drives	none
+--------------------	--------------------
+lately stair climbing is becoming more tiresome	mobility
+how come stairclimbing is more intens than it was before	mobility
+I have been in the hospital recently and lost some weight	none
+that might be a good explanation for a deteriorating physical fitness. Dit recieve any rehabilitation afterwards?	none
+no I did not, because I never had trouble climbing the stairs	mobility
+It might be a good idea to start exercising and strengthen your muscles for stair climbing	none
+I thought taking more walk outside. Do you think that helps for stair climbing as well	none
+in general you should be able to walk stairs if you take daily walks	mobility
+--------------------	--------------------
+do you still do your own groceries?	domestic
+yes I do take my own groceries, but I am alway very tired when I get home	domestic
+howcome the groceries make you tired?	domestic
+the groceries seem to get havier by the month	domestic
+is your fitness deteriorating do you think?	none
+why would my fitness get any worse? I just as active as always	none
+when getting older your muscles will get less strong unless you perform exercises	none
+so you think my groceries are not getting havier, but I am getting less strong	domestic
+yes, you might want to consider strength exercises to be able to do your groceries getting less fatigued	domestic
+--------------------	--------------------
+I clean the house every day, do you do the same?	domestic
+We clean the house only on weekends.	domestic
+Sometimes we also have to help my mother with tasks	domestic
+Does she need a lot of help	none
+Only for window cleaning and other heavy tasks	domestic
+It can be difficult to help others and take care of your own household at the same time.	domestic
+Yes, a double household is quite tiring.	domestic
+Does your husband also lend a hand	none
+Yes, he takes out the trash cans, but as far as I'm concerned he could do a little more	domestic
+Familiar problem, haha	none
+--------------------	--------------------
+Hey, how are you today	none
+Have you been reading in your new book?	general
+I'm good. Thank you. Yes I have been reading my new book acutally	general
+were you able to read all day?	general
+No not really. I had to put it down a few times due to my headaches	general
+I have not read in years due to headaches but now I can read again	general
+And are you glad you are reading again?	general
+Yes, very glad, it is so relaxing	none
+And what do you like to read most?	general
+A good thriller is really my favorite genre	none
+--------------------	--------------------
+He can you do some groceries after work?	domestic
+I will do so, but first I need to finish my work	major
+OK, I will talk to you later about dinner	interpersonal
+Thanks	none
+Did you finish your work?	major
+Yes i did, it was quit a lot but finished for the day	major
+Were you able to concentrate all day?	none
+Yes, thankfully and  the new coffee machine also helped a lot	none
+I know you have a lot of tasks, right?	general
+Yes thats what made it so busy	general
+What do you do when the stress gets too much?	general
+I tend to just relax and sit in the sun	general
+When driving the car, I hope you can still concentrate and leave the stress behind	learning
+I love driving, ti really takes the stress away	mobility
+I want to finish my work but I did not organise my time well today	general
+Sorry to hear, do you have the time tomorrow?	none
+--------------------	--------------------
+Hey did you go running this evening?	mobility
+Of course, you know I always exercise a bit after work, otherwise I feel like I  only work and do not enjoy life	social
+I understand, I feel the same, but I like to go to the gym instead and talk to people	social
+Well, I used to go to the gym before and I already had many friends there, but now I rather to save that money	general
+After all, there are many different things you can do to exercise without paying a coin	social
+That is right, I also practice yoga during the weekend in a park, if you want you can join me next time	social
+I would love to, I love yoga and nature	social
+Great, see you next weekend then? we usually meet at 10:00	social
+Perfect, then I can go there after breakfast	learning
+See you	none
+--------------------	--------------------
+What do you find the most annoying household chore to do?	domestic
+I find that ironing, I do that as little as possible	domestic
+By buying clothes that do not wrinkle?	domestic
+Yes, actually that's how I deal with it, haha	none
+That seems like a good option to reduce the household burden	domestic
+I also have a clean up worker once a week	domestic
+Oh good, with what tasks is he helping you out?	domestic
+Especially with cleaning the toilets and bathroom.	domestic
+Oh yes, those are pretty heavy tasks that have to be done at least once a week.	domestic
+Yes, because of my back problem that's a problem for me.	none
+Does your back still hurt?	none
+Yes, especially in tasks where I have to bend over.	none
+Great to have help then!	none
+--------------------	--------------------
+Goodmorning! How are you?	none
+I am very well, just about to go with the kids to the playground and watch them while they play	domestic
+Lovely, it is a perfect day to do so!	none
+Yes, would you care to come along? It will be fun and you can help me to keep an eye on them	domestic
+Sure, great and it is always fun to see kids play and enjoy themselves	domestic
+Ok lets go, do you need anything else?	none
+No, don't think so. Let;s just hope they won't climb the high tower, I am afraid to watch them if they climb	social
+No they won't, we can watch them from the bench in the park	domestic
+--------------------	--------------------
+I always take a shower by myself	selfcare
+I sometines ask somebody to wash my back in the shower	domestic
+It was so nice to dress myself for the wedding today	selfcare
+you look great, all dressed up!	none
+When there is a party, I always dress in a black dress	selfcare
+when you dress black, that is really fancy	none
+Because of my diabetes I have to eat on time, do you also need to eat on time?	selfcare
+eating in time is not that important for me	selfcare
+I love to carry snacks in my bag, so I can eat when I am hungry	selfcare
+it's a good idea to carry snacks in you bag	selfcare
+I definitely should drink more water	selfcare
+If you don't like drinking water, you can also drink tea	selfcare
+I know I have to look after my health, so I take my medication on time	selfcare
+And also, remember to look after your diet	selfcare
+Yes, I have had some great advice on how to manage my diet	selfcare
+Who gave you the advice?	none
+I went to see a dietician and she helped me to make a plan	none
+Sounds great, can you share the plan she gave you?	general
+Yes sure, it is an easy plan to manage your diet and exercise	selfcare
+Is it a plan to balance your diet and exercise as you get older?	selfcare
+Yes it is, she explained how to make sure to get all the necessary intake to have enough energy for the day	selfcare
+And what did you learn from her?	none
+Well, I am now eating more fruits and vegetables throughout the day	selfcare
+That sounds easy?	none
+It is, and she also explained to exercise on a regular basis	selfcare
+What kind of exercise to you prefer to stay healthy?	selfcare
+I prefer to take long walks outside	social
+Walking is a really good way to manage one's health	selfcare
+It is and we should plan to walk together so you can look after your health as well	selfcare
+Let's do so, and please share the advice of your dietician regarding a balanced diet!	general
+--------------------	--------------------
+My neighbor makes loud noise during the late night quite often recently.	interpersonal
+Then you should tell him that you are bothered by the noise.	interpersonal
+But I have good relationship with him. I feel quite embarrased to complaint about the noise. I have been tangled with the thoughts for a few days already.	interpersonal
+No worries, if you are friends, he will understand you.	interpersonal
+You know, I don't quarrel with my neighbor becasue of this.	interpersonal
+Mentally speaking, if you have thoughts and complains, you'd better express how you feel. Otherwise, it might affect your mental health.	interpersonal
+--------------------	--------------------
+My friend from anti-war association and I feel quite angry about the U.S. blaming the conflicts between Ukrain and Russia.	social
+What do you think about that?	social
+Well, I think politians should help both sides to sit down and talk to resolve the conflict in a peaceful way. But not constantly sending weapons to make the situation worse.	social
+But what can you do about it?	none
+Of course there is something I can do.  Our association will hold a protest next week	social
+How about your body situation, can you make it to the protest?	none
+I think I am fine, as long as I control my emotion and avoid having conflicts with others.	none
+--------------------	--------------------
+who does the dishes in your house	domestic
+well, that should be me doing the dishes	domestic
+oh, why so?	none
+oh, I suppose its kind of a tradition that the woman takes care of the dishes	interpersonal
+can you still manage to do the dishes?	domestic
+oh yes, but there is a difference compared to a couple of years ago in doing the dishes	domestic
+how can you do the dishes different?	domestic
+we were used to doing the dishes 3 times a day, when the kids were still at home	domestic
+ah, you mean that you do the dishes not as many times as before?	domestic
+yes, now sometimes don't do the dishes at all	domestic
+it can become messy when you don't do the dishes, don't you think	domestic
+I used to be more tidy with regard to the dishes than before, I suppose you're right	domestic
+--------------------	--------------------
+Do you like music?	social
+Yes, I like music very much	social
+Do you play an instrument yourself?	social
+No, unfortunately not but I like to listen to music	social
+What kind of music do you like the most?	social
+I really like funk, soul and jazz.	social
+Do you ever go to concerts?	social
+Yes, I used to go to Prince concerts	social
+Oh, that's fantastic, me too	none
+Yes, what a great artist he was.	none
+--------------------	--------------------
+In the weekend, I love to prepare meals for myself and the family	domestic
+we mostly prepare meals together in the weekend	domestic
+On weekdays, I do not have much time to cook but I still manage to prepare something	domestic
+I always chose simple recepies during the week	domestic
+What is your favorite recipe?	domestic
+I like to cook pasta with a nice veggie sause	domestic
+Do you like italian food in general?	none
+yes, I love it and I like to try all kind of recipes	domestic
+What kind of knife do you use to cut the vegetables?	domestic
+I have a special knife for that, just like a pro :)	domestic
+Are you a  vegetarian?	none
+No, but I limit my meat intake to once a week	none
+--------------------	--------------------
+when I got out of bed this morning I almost slipped	mobility
+oh really, why did you slip?	mobility
+not sure, I think my head was clear yet and I got up to fast	mobility
+ooh, that is understandable, you should whatch out when getting up at your age	mobility
+not funny, I never have trouble getting out of bed before	mobility
+did anything change recently?	none
+come to think of it, I did start medication recently and on the disclosure I read dissyness could be a side effect	none
+a, well; there is you explanation than for nearly slipping!	mobility
+--------------------	--------------------
+Tomorrow I will have my first tennis lesson of the season, do you play tennis?	social
+I play tennis, tough I'm not that good	social
+Playing sports is important for your health	social
+Yes, but also for social reasons	social
+Do you prefer an individual or a team sport?	social
+I prefer a team sport, because of the social part of it	social
+Yes, that's also important to me	none
+In the weekend  I play hockey in a team, we play competition as well	social
+hockey is a great to play in a team	social
+--------------------	--------------------
+Were you not able to concentrate that well today?	learning
+I was not able to concentrate, even though I made a schedule with tasks	learning
+That is a great idea! I will make one to for my work	general
+Let me know if it will help you as well	general
+It worked! I arranged for the team to meet, all done now!	general
+Wonderful that you got it all arranged	general
+After work, I had to drive in so much traffic	mobility
+It can be so hard to drive during rush-hour and concetrate on traffiic	general
+Today I was home with the kids, had to take them to school, go back home and find time to clean	general
+that is quite a busy day-schedule	general
+I was so happy to manage the energy level througout the day and was able to complete it all	general
+Well done and happy you managed to work and concentrate the whole day	general
+--------------------	--------------------
+did you talk with your parents about the thing the other day?	interpersonal
+I tried to, but I did not get the chance?	none
+what do you mean? did you not have the time or were you not able to start the conversation?	interpersonal
+I really found it hard to start the conversation	interpersonal
+what made it difficult to start the conversation?	interpersonal
+I am afraid my parents will get mad at me for doing the thing	interpersonal
+don't you think they will be more angry when they find out for themselves?	interpersonal
+you are right, it's best to start the conversation myself	interpersonal
+--------------------	--------------------
+did you hear about the argument in the board last night?	interpersonal
+no, why was there an argument?	interpersonal
+the chair took it upon him to organize stuff without informing the rest of the board	interpersonal
+okay, that's bad. He shoul always keep them in the loop	interpersonal
+he claimed that he did kept them in the loop, but failed to read their messages	interpersonal
+ah, well that is a great way to start an argument. did the argument end well?	none
+in the end the chair admitted that he might have taken more trouble to inform everyone more personal	interpersonal
+ah, good. Did this take of the heat of the argument	interpersonal
+almost all. They made him promis to improve is communicaton in the futre	interpersonal
+--------------------	--------------------
+Do you have time for dinner on Friday?	social
+Well, I usually am a bit busy on Friday and finish working at 19:00	major
+Oh, maybe we can meet after work, but tell me what do you usually do on Friday?	interpersonal
+I wake up early to have breakfast and then go to the office, once I am at the office I have meeting until 13:00	major
+That sounds like a busy schedule, Don't you have lunch at one point?	selfcare
+Yes, I have lunch after my meetings and then take a break with my colleagues	selfcare
+After I go back to the office and work on my project until five when i have to leave and pick up my dog at the pet salon	major
+Oh wow, he is a lucky dog. But he can come with us to have dinner if you want	social
+That would be great, in that sense I do not have to bring him home and we can meet at 19:00	social
+--------------------	--------------------
+He, do you fancy going to watch a football match in the stadium tonight?	social
+Yes I would love too, it has been ages since I watched a match	social
+Do you know who is playing?	none
+No I don't, but I dont' mind I just really like to go	none
+I will pick you up, I will take two more friend to see the match as well	interpersonal
+We are not going with just the two of us?	interpersonal
+No we are not	none
+Than I prefer to stay home and watch a good movie on tv	general
+Do you prefer to see a movie on TV over a match?	general
+Yes, if we are not going with just us I do	none
+--------------------	--------------------
+are still doing your own household	domestic
+oh yes, I still do part of my own household	domestic
+could you elaborate on your household, what do you do	domestic
+well, I take dust every wednesday, and the beds on friday	domestic
+okay, great that you are still able to do your own bed	domestic
+yes, we do the beds together with my husband. he helps when I ask	domestic
+ah, and who does the vacuum cleaning?	domestic
+vacuum cleaning is usely his job, when I water the plants	domestic
+good to hear that you collaborate with your husband in doing the household	domestic
+are their any tasks in the household for which you need external support	domestic
+oh yes, once a week we get the help who takes care of the major things in the household	domestic
+ah, you mean window cleaning and or mopping	domestic
+yes, for mopping and window cleaning we need help, but all other stuff concerning the household we do ourselves	domestic
+--------------------	--------------------
+I have some good friends I hang out with on the weekends, and you?	interpersonal
+Yes, me too; I like to sit by the campfire on weekends with friends.	interpersonal
+With music and good conversations for sure?	social
+Yes, those are the best nights for me	none
+Right, friendship is super important in life	interpersonal
+Do you have a lot of friends?	interpersonal
+No, I have a few, but we are very close	interpersonal
+Yes, that goes for me too	none
+I would rather have a small group of good friends than a large group of people with whom I am not so close	interpersonal
+Yes, I agree	none
+--------------------	--------------------
+I feel it's difficult for me to hear things clearly nowadays.	none
+Hello, Hello. Can you hear me?	communication
+Sure, but if you are 5 meters away from me, then it's difficult.	none
+When did you notice that?	none
+It starts around 1 year ago but it didn't affect my daily life yet. So I didn't care about it that much. However, recently, when I talked to my friends, I had to ask them to speak louder quite often so that I can hear what they said.	communication
+Have your ears ever been hurt or impaired by very loud sounds?	none
+None that I've known of.	none
+That might be caused by aging. It's better to have a check with your GP.	none
+--------------------	--------------------
+I see some colleagues as friends	interpersonal
+Do you also see them outside of work?	none
+Yes, we often see each other on Friday afternoons for drinks	interpersonal
+Having good relationships at work is important to me	interpersonal
+Yes, we spend a lot of time at work, don't we?	major
+We often spend more time with colleagues than with our families	interpersonal
+Do you have less contact with your colleagues now that you are working less due to illness?	interpersonal
+Yes, it definitely affects the relationship with my colleagues	interpersonal
+Are they considerate toward you now that you are there less?	interpersonal
+Yes, they always ask how I am doing	none
+--------------------	--------------------
+Hi, how are you doing; are you still painting?	social
+No, not as much as I would like	none
+How come?	none
+My right arm hurts a lot when I paint.	none
+Oh that's annoying, can you do anything about it?	none
+I'm being treated by a physiotherapist and it's getting better.	none
+Can you express yourself creatively in any other way at the moment?	social
+Yes, I go to museums a lot to enjoy art	social
+Oh, that's nice	none
+Yes, looking at art also gives me a lot of pleasure	social
+--------------------	--------------------
+Were you raised religiously?	none
+Yes, I went to church every week with my parents	none
+And do you still do that?	none
+No, not for a long time, actually only at Christmas	none
+Have you found another way to believe?	social
+I don't believe in a god, but I am spiritual	social
+Oh, me too; I follow some spiritual leaders	social
+Yes, me too, and I get a lot out of it	none
+Yes, there are some important messages in it that help me in life	social
+Yes, for me it's important too	none
+--------------------	--------------------
+Do you manage your finances well?	major
+I have trouble managing my finances after my resignition	major
+And are you also saving money?	major
+we saved money to buy a car last year	major
+I am happy I can provide for myself financially because I work	major
+My wife has a really good job and is able to provide for the house	major
+Since the energy costs increased immensely....	none
+Yes, life is expensive at the moment	none
+Do you spend your money on holidays?	major
+Yes, I do but I go camping this year because hotels are way to expensive	none
+Okay, yes can imagine	none
+--------------------	--------------------
+I got a head rush quite often recently.	none
+How does the head rush normally happen?	none
+It occurs when I climb the stairs or when Istand up from a squat.	none
+How stong does it feel?	none
+Sometime, I feel like I cannot stand steadily and have to hold something to support myself.	mobility
+How long does it take to recover from the rush?	none
+Around half a minute, somthing like that.	none
+Did you measure you blood pressure recently?	none
+Nope	none
+Maybe we should first mesure your blood pressure.	none
+--------------------	--------------------
+I couldn't mop the floor like how I did before anymore.	domestic
+I am sorry to hear that, but why?	none
+I could mop the floor of the whole appartement before. But now, I get pain in my waist already after mopping just the living room floor. I can not bend my waist for a long while anymore.	domestic
+True, bending for a long time will cause excessive load on your waist. Do you need to do any other chores or movement that will require you to bend your waist for a long time?	domestic
+I also did quite some gardening recently. Maybe that also hurt my waist.	domestic
+It might be. You'd better take a rest for a few days and avoid bending your waist. Even if you need to bend your waist, you 'd better just keep it for just a really short while. And if you still have the pain, it's necessary to visit the doctor.	none
+--------------------	--------------------
+How is your education going?	major
+I am too tired to study well at the moment	learning
+Oh,that's annoying. How long has it been bothering you?	none
+Since I had a COVID infection 10 months ago.	none
+Did you pass any exams during that period?	major
+I've only passed one out of five.	none
+Have you applied for an extension ?	none
+Yes, that application is now pending	none
+I hope you can resume your education soon and start feeling better	major
+Yes, thank you!	none
+--------------------	--------------------
+how do you feel recently?	none
+Nothing wrong, except that my legs feels weak every time after a long walk.	mobility
+Which part of the leg feels weak? Your thighs or your claves? On the left side or on the right side? 	none
+The right side. It feels like it happens on my thigh.	none
+When did you start feeling it's weak?	none
+It's been almost 3 months.	none
+Did you get injured 3 months before?	none
+Nope.	none
+After walking for how long or how far would your right thigh start feeling weak?	mobility
+Half an hour or one kilometers somthing like that.	none
+--------------------	--------------------
+How do you interact with your neighbors?	interpersonal
+We greet each other when we meet, but that's all.	interpersonal
+And do you help each other when necessary?	interpersonal
+Yes, we can always ask our neighbors for help.	interpersonal
+That's important, it's not always like that.	none
+No, in big cities you can live very anonymously	none
+People can get lonely	interpersonal
+Yes, promoting contacts in the neighborhood can be important when people are in need of help	social
+Do you know of any projects that try to improve contacts in the neighborhood?	social
+Yes, I know of some; for example, a project where elderly people and students interact and do things for each other	social
+That's a very good initiative!	none
+--------------------	--------------------
+ Do you go to church on Sunday?	social
+I only go to church when I feel up to it	social
+I find the social part in our church community an important aspect	social
+How do mean?	none
+I mean, people really care for eachother 	interpersonal
+That must bring a lot of support and comfort to people	interpersonal
+yes, especcially to the vulnerable people in our community	none
+Does the city you live in also provide support for these people, outside the church	social
+yes, i sometimes help as a volunteer 	major
+What do you do then?	none
+I bring people to the hospital for example or help them to organize their finances	social
+Oh, very good!	none
+--------------------	--------------------
+I'm having difficulty speaking lately. Can you help me?	none
+What seems to be the trouble when you speak?	none
+I have difficulty in saying what I am thinking. 	none
+do you know in your head what you want to say?	none
+yes, I can see the words in front of me, but when I speak my mouth hesitates	none
+there seems to be a motor problem and willl refer you to a speach therapist	none
+--------------------	--------------------
+when you spoke to Ed eysterday, did he mention he was happy?	none
+I did speak to Ed, but he did not seem happy	none
+that is odd, he called me to say hey got good grades on his finals	major
+ah, great! we only spoke about his grandparents and the are ill. So, no reason to be cheerfull	none
+okay, that explains it. if you see him next time congratulate him with his grades!	major
+I will sure do, that might cheer him up	none
+--------------------	--------------------
+Did you do something interesting today?	none
+Not really, I just went to work in the morning and had a couple of meetings in the morning	major
+Well, meetings can also be fun sometimes. But how was your day overall?	none
+It was good after the meeting I helped a colleague with an interesting task and then went to get a coffe	general
+Then went back to my office to work on the code and finish a document for my supervisor	major
+Sounds like a very productive day, did you do something else to relax after work?	general
+Well, after work I was hungry so I decided to make dinner and work a bit on my personal project	domestic
+Seems like you had a lot to do today, I hope you can relax next days	none
+I also went to work and after I went swimming before coming home to relax	general
+Sounds like we had a busy and productive day, good for us	none
+--------------------	--------------------
+I feel it's difficult for me to get out of bed recently.	mobility
+Oh, why?	none
+I feel it was hard to breathe smoothly when I tried to get up from the bed.	mobility
+Do you have any chronic lung disease or do you smoke?	none
+My body check shows that there are some problems, and the doctor told me to have regular checks. Emm, I have smoked for almost 40 years already.	none
+How long have you felt difficult to get out of bed already? Do you have the same feeling every time when you get out of bed?	mobility
+It's been almost 2 months, and yes, I have the same feeling almost every time.	mobility
+--------------------	--------------------
+I invest my money, do you?	major
+Yes, I do but I don't take much risk	none
+I only take risk with a small portion of my savings	major
+What do you invest in then?	major
+I invest in crypto's	major
+Oh yes, that market is quite uncertain	none
+Yes, but in the longer term I think it will go in the right direction	none
+Is it the future according to you?	none
+yes, I expect a lot from it	none
+Then let's hope those expectations come true	none
+--------------------	--------------------

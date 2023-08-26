@@ -1,0 +1,584 @@
+	utterance	gold	predictions
+0	He, did you bike to work today?	3	2
+1	I actually went by car because I felt tired when I woke up	3	3
+2	I went for a long walk with the dog, in the rain. That was nice	3	9
+3	Walking in the rain can be nice indeed	3	9
+4	Sometimes I walk to work but that takes even longer	3	3
+5	Walking to work is really exhausting for me	3	1
+6	I really prefer to take the train or go by car	3	3
+7	I usually take the bike when I go to work	3	3
+8	Yesterday I went for a bike ride to the beach in the sun, that was lovely	3	9
+9	lucky you! I thought there was to much wind to cycle	9	9
+10	Do you ever go for a long bike ride to the beach?	3	3
+11	I like taking long bike ride on the beach during sunrise	3	3
+12	I will ride you on my bike to the bus stop today, to catch the bus to the train station	3	3
+13	Maybe bike together to the bus? 	8	3
+14	It has been a while since I biked but sure!	9	9
+15	Biking can be very nice and relaxing way to exercise	9	0
+16	True, and it is a great way to explore nature	9	0
+17	But now with the electric bikes, it is getting more dangerous	9	3
+18	So many people now have electric bikes!	9	8
+19	But in traffic you have to pay more attention while biking	3	9
+20	Yes, and to stay safe you have bike with a helmet	4	3
+21	That is correct, biking with a helmet is much better	3	3
+22	But I have bought a bike, and now take long rides also in the hills	3	3
+23	Oh that is great, I do too!	3	9
+24	We should go out more together on the bike, it will be fun!	8	6
+25	Yes, we should! Let's plan for a activity next week	8	8
+26	I am free next week and would love to plan a bike-ride together	8	8
+27	Great, I will look for a nice scenic route we can take	9	8
+28	Thanks! Looking forward	9	9
+29	But now, I have to hurry for the bus, let's go	9	3
+30	getting older I notice I don't like taking the buss as easy as I did before	9	3
+31	what wrong with taking the bus? can you not walk to the bus stop anymore?	3	3
+32	that's allright. I can walk to the bus stop	3	3
+33	is it difficult to climb in the bus than?	3	3
+34	hmm, no it is also fine to climb in the bus	3	3
+35	okay, getting there; are you able to find a seat when your in the bus?	3	3
+36	come to think of it; it's the ticketing system in the bus that changed	9	2
+37	why is the ticketing system a problem	9	2
+38	the changed the buttons on the ticketing system and now I have to ask people to help me	8	2
+39	ah, so you might need new glasses to be able to take the buss	9	3
+40	I think I will have my eyes checked!	9	4
+41	What did you study?	7	0
+42	I studied law, but went in a completely different direction	7	0
+43	So what are you doing now?	9	2
+44	I have done additional courses focused on management in healthcare	0	0
+45	Oh, and do you work in that now?	7	2
+46	Yes, my courses led to a management job in healthcare	7	0
+47	What education did you do then?	7	0
+48	A master's degree from the University of Rotterdam.	7	0
+49	Did you learn a lot from that?	0	0
+50	Yes, a lot that I can now apply in my job	7	1
+51	are you still able to take showers?	4	4
+52	I used to take daily showers, but lately I only take a shower once a week	4	4
+53	How come, you don't take daily showers anymore?	4	4
+54	due to the pain in my legs I depend on support to shower	4	4
+55	that's to bad, do you still enjoy having a shower?	9	4
+56	yes, very much, even though I need support and sit on a chair when showering	4	4
+57	good to hear you are still enjoying the shower	9	4
+58	Do you get help in household chors	5	5
+59	Yes.I get some help from my kids, they are teenagers now	9	6
+60	They help me with some  of the more simple tasks	5	1
+61	What kind of tasks do they help you with?	1	1
+62	They help me, for example, with vacuuming	5	5
+63	Are they also responsible for cleaning their own rooms?	5	5
+64	Yes, they are responsible for taking care of their own room	5	5
+65	That's helpful and also a good way to prepare themselves for doing the household on their own one day	5	5
+66	Yes, but there are still a lot of tasks to do	1	1
+67	Yes, true	9	9
+68	At the moment, I learn them to wash their own clothes	5	0
+69	That.s an easy one, since the wasking machine is doing the work	9	1
+70	Yes, but you still can do a lot wrong haha	9	9
+71	For exmaple, combining the white with the coloured wash	5	2
+72	Oops!	9	9
+73	My wrist hurts when cooking food	5	4
+74	Oh that's annoying, how come?	9	9
+75	I think I have arthritis because my wrist seems thick	9	4
+76	How does that hinder you in cooking then?	5	5
+77	I am bothered especially when I am cutting ingredients	5	4
+78	Have you tried cutting with a brace on your wrist?	5	0
+79	that's a good idea, I'll give that a try	9	9
+80	yes, I would do that, it helped me a lot when I bruised my wrist	9	4
+81	Do you have a brace I can borrow for household chores?	5	5
+82	Yes, I will look it up for you	9	6
+83	many thanks!	9	6
+84	I've known my best friend since kindergarten	6	6
+85	Oh, that's special; have you been close all this time?	6	6
+86	No, we lost track of each other for a while	6	6
+87	How come you got back together?	6	6
+88	I moved to the same town where she lives	6	8
+89	It must be nice to have her around again?	6	6
+90	Yes, it feels familiar	9	9
+91	I can imagine; I have that with a friend too	6	6
+92	We can easily meet up when we want to see each other	6	6
+93	Yes, that's really an advantage!	9	9
+94	Do you go to trainings for your work?	0	0
+95	With us it is all training on the job and by doing	0	0
+96	What kind of training it it?	0	0
+97	It's mainly project management and sales	0	0
+98	In what area do you like to develop yourself?	0	0
+99	I would like some more education in leadership skills	0	0
+100	Do you plan to do a course? 	0	0
+101	Yes, I am about to ask my boss 	9	2
+102	It would be great if you can start soon!	9	8
+103	Yes, I am always in for learning new skills	0	0
+104	It's difficult for me to get up from the toilet recently. 	4	4
+105	Why so? Is it because your legs are weak?	9	3
+106	I can' tell why yet. I just feel I have to use my hands to grap something to help myself getting up.	4	4
+107	How do you usually get up from the toilet? Do you lean your body forward and then use the strength from you feets to help yourself get up? 	4	4
+108	I didn't pay attention to that accutually. I should try later.	9	9
+109	Yes, you can try this method, maybe it would help.	9	0
+110	My kids haven't visited me for almost 2 months already.	6	6
+111	Maybe they are busy with their work, even though they also want to visit you?	6	6
+112	Yes, I think they quite busy and that's why I don't want to bother them.	6	6
+113	Maybe you can have video call with them. Ask how are they recently and tell them that you miss them.	6	6
+114	Good idea.	9	9
+115	If you want to spent some time with them, or having dinner with them. You can just tell them your idea. Or you can invite them to your place or visit them at their places?	6	6
+116	Aren't you going to France this summer?	3	8
+117	Yes, I am as a mather a fact	9	9
+118	Have you made any progess with your French lessons?	0	9
+119	I did, but I think I'll do better when I'll be there	9	8
+120	Do you really speak two languages now?	2	2
+121	I would not consider myself a natural French speaker, but I can manage to order drink	8	2
+122	I would like to learn Spanish, I don't like to learn French though	0	0
+123	Oh how interesting, did you already start to learn Spanish?	0	0
+124	No, I did not start to learn another language yet, I have asked information about Spanish lesson	0	0
+125	Really nice! When do you aim to start?	9	9
+126	Next summer, I will start to learn Spanish, hopefully in Spain!	0	0
+127	Did you already decide wether you will buy another bicycle?	7	5
+128	I have not, we are still thinking of buying e-bikes	7	8
+129	Yes it can be a difficult process, there are so many choices to consider	0	1
+130	So true, the offer is enormous and it makes it hard to decide	0	7
+131	I understand! What do you still need before you can decide?	0	2
+132	I would like to talk to people to help me decide	0	6
+133	I could help, I have some friends with e-bikes and they already made up their minds	1	6
+134	That would be awesome	9	9
+135	Wait, I will give you their numbers, I  will make it much easier to decide for you!	0	2
+136	You like to make decisions in your work?	0	0
+137	And do you also like to make decisions about your personal life	0	7
+138	Let me think about it for a while and come back to you	9	9
+139	IThank you, I will think about it too!	9	6
+140	It is quite stressful, and I can feel overwhelmed.	9	1
+141	Do you often meet with family when you have a day off?	6	6
+142	Yes, we are very close as a family and I enjoy spending time with them.	6	6
+143	Do you also go on vacation together?	6	6
+144	Ye, we go skiing together every year	6	6
+145	Oh nice, in our family we only see each other on birthdays	6	6
+146	Is that okay for you guys?	9	6
+147	Yes, we're not that close	6	6
+148	Do you have a brother or sister?	8	6
+149	I have a brother, but we rarely see each other.	6	6
+150	Does your physical disability have anything to do with that?	9	4
+151	Yes, I can't travel far and we live far away from each other	3	6
+152	That is unfortunate	9	9
+153	Yes I did	9	9
+154	I also send you a text message	9	2
+155	yes, I saw that too	9	9
+156	Did you understand the text? and how come you did not answer?	2	2
+157	I understood you perfectly, but suppose I did not have time and forgot all about it	2	9
+158	My phone is quite old, it is hard to communicate with it	2	2
+159	maybe ring next time. that is always quicker	2	2
+160	So when you call me, I might not hear you	2	2
+161	Let's make an appointment in that case	6	9
+162	Can you send me a text message if you want to tell me something	2	2
+163	I will send you a spoken message instead	2	2
+164	Otherwise you can try to call but I mights not answer	2	2
+165	In that case I will take another turn	9	9
+166	Today I was in a Zoom meeting with my team, I still can not believe how well it works	2	0
+167	For me, it becomes more difficult to understand all these communication possibilites	2	2
+168	I can imagine, the developments of possibilities to communicate have increased so much	9	2
+169	I have bought an Iphone  but you have to help me understand how to use it	1	0
+170	Sure! I would love to show and help you out	9	6
+171	Can you show me how it works on yours?	9	2
+172	I will later today	9	9
+173	I heard from a friend that these phone can also make great photo's these days!	2	2
+174	Yes they do, but we should not forget how important face-to-face communication is	9	2
+175	I agree, I have a hard time to understand all the communication on a phone?	2	2
+176	So you prefer to talk face-to face?	2	2
+177	Yes I do, but I am willing to learn all the new options to communicate!	2	0
+178	That is great, especially on your age	9	9
+179	THanks! Talk later, I will call you with my new phone!	2	2
+180	yesterday I drove 1400 miles by car, which is almost a personal record!	3	3
+181	Wauw! I can imagine your were fatigued when you got home	9	9
+182	I should be fatigued after this drive, but I went straight into the gym	3	3
+183	that's tough! were you able to exercise after such a long drive?	9	9
+184	exercising was hard after the drive, but it did help me to get my blood circling	9	4
+185	so you felt refreshed after the exercises	9	9
+186	yes, I would recomend everyone to perform exercises after long drives	9	9
+187	lately stair climbing is becoming more tiresome	3	3
+188	how come stairclimbing is more intens than it was before	3	9
+189	I have been in the hospital recently and lost some weight	9	4
+190	that might be a good explanation for a deteriorating physical fitness. Dit recieve any rehabilitation afterwards?	9	4
+191	no I did not, because I never had trouble climbing the stairs	3	3
+192	It might be a good idea to start exercising and strengthen your muscles for stair climbing	9	0
+193	I thought taking more walk outside. Do you think that helps for stair climbing as well	9	3
+194	in general you should be able to walk stairs if you take daily walks	3	3
+195	do you still do your own groceries?	5	5
+196	yes I do take my own groceries, but I am alway very tired when I get home	5	5
+197	howcome the groceries make you tired?	5	5
+198	the groceries seem to get havier by the month	5	5
+199	is your fitness deteriorating do you think?	9	4
+200	why would my fitness get any worse? I just as active as always	9	9
+201	when getting older your muscles will get less strong unless you perform exercises	9	0
+202	so you think my groceries are not getting havier, but I am getting less strong	5	5
+203	yes, you might want to consider strength exercises to be able to do your groceries getting less fatigued	5	9
+204	I clean the house every day, do you do the same?	5	5
+205	We clean the house only on weekends.	5	5
+206	Sometimes we also have to help my mother with tasks	5	5
+207	Does she need a lot of help	9	9
+208	Only for window cleaning and other heavy tasks	5	5
+209	It can be difficult to help others and take care of your own household at the same time.	5	6
+210	Yes, a double household is quite tiring.	5	5
+211	Does your husband also lend a hand	9	6
+212	Yes, he takes out the trash cans, but as far as I'm concerned he could do a little more	5	5
+213	Familiar problem, haha	9	9
+214	Hey, how are you today	9	2
+215	Have you been reading in your new book?	1	0
+216	I'm good. Thank you. Yes I have been reading my new book acutally	1	0
+217	were you able to read all day?	1	2
+218	No not really. I had to put it down a few times due to my headaches	1	4
+219	I have not read in years due to headaches but now I can read again	1	0
+220	And are you glad you are reading again?	1	2
+221	Yes, very glad, it is so relaxing	9	9
+222	And what do you like to read most?	1	0
+223	A good thriller is really my favorite genre	9	0
+224	He can you do some groceries after work?	5	5
+225	I will do so, but first I need to finish my work	7	1
+226	OK, I will talk to you later about dinner	6	6
+227	Thanks	9	9
+228	Did you finish your work?	7	2
+229	Yes i did, it was quit a lot but finished for the day	7	5
+230	Were you able to concentrate all day?	9	1
+231	Yes, thankfully and  the new coffee machine also helped a lot	9	5
+232	I know you have a lot of tasks, right?	1	1
+233	Yes thats what made it so busy	1	9
+234	What do you do when the stress gets too much?	1	7
+235	I tend to just relax and sit in the sun	1	9
+236	When driving the car, I hope you can still concentrate and leave the stress behind	0	1
+237	I love driving, ti really takes the stress away	3	9
+238	I want to finish my work but I did not organise my time well today	1	1
+239	Sorry to hear, do you have the time tomorrow?	9	2
+240	Hey did you go running this evening?	3	9
+241	Of course, you know I always exercise a bit after work, otherwise I feel like I  only work and do not enjoy life	8	1
+242	I understand, I feel the same, but I like to go to the gym instead and talk to people	8	6
+243	Well, I used to go to the gym before and I already had many friends there, but now I rather to save that money	1	8
+244	After all, there are many different things you can do to exercise without paying a coin	8	1
+245	That is right, I also practice yoga during the weekend in a park, if you want you can join me next time	8	8
+246	I would love to, I love yoga and nature	8	0
+247	Great, see you next weekend then? we usually meet at 10:00	8	8
+248	Perfect, then I can go there after breakfast	0	8
+249	See you	9	9
+250	What do you find the most annoying household chore to do?	5	5
+251	I find that ironing, I do that as little as possible	5	4
+252	By buying clothes that do not wrinkle?	5	5
+253	Yes, actually that's how I deal with it, haha	9	9
+254	That seems like a good option to reduce the household burden	5	5
+255	I also have a clean up worker once a week	5	5
+256	Oh good, with what tasks is he helping you out?	5	2
+257	Especially with cleaning the toilets and bathroom.	5	5
+258	Oh yes, those are pretty heavy tasks that have to be done at least once a week.	5	1
+259	Yes, because of my back problem that's a problem for me.	9	4
+260	Does your back still hurt?	9	2
+261	Yes, especially in tasks where I have to bend over.	9	3
+262	Great to have help then!	9	6
+263	Goodmorning! How are you?	9	2
+264	I am very well, just about to go with the kids to the playground and watch them while they play	5	8
+265	Lovely, it is a perfect day to do so!	9	8
+266	Yes, would you care to come along? It will be fun and you can help me to keep an eye on them	5	6
+267	Sure, great and it is always fun to see kids play and enjoy themselves	5	8
+268	Ok lets go, do you need anything else?	9	2
+269	No, don't think so. Let;s just hope they won't climb the high tower, I am afraid to watch them if they climb	8	9
+270	No they won't, we can watch them from the bench in the park	5	8
+271	I always take a shower by myself	4	4
+272	I sometines ask somebody to wash my back in the shower	5	4
+273	It was so nice to dress myself for the wedding today	4	6
+274	you look great, all dressed up!	9	6
+275	When there is a party, I always dress in a black dress	4	9
+276	when you dress black, that is really fancy	9	9
+277	Because of my diabetes I have to eat on time, do you also need to eat on time?	4	4
+278	eating in time is not that important for me	4	4
+279	I love to carry snacks in my bag, so I can eat when I am hungry	4	4
+280	it's a good idea to carry snacks in you bag	4	5
+281	I definitely should drink more water	4	4
+282	If you don't like drinking water, you can also drink tea	4	4
+283	I know I have to look after my health, so I take my medication on time	4	4
+284	And also, remember to look after your diet	4	4
+285	Yes, I have had some great advice on how to manage my diet	4	4
+286	Who gave you the advice?	9	2
+287	I went to see a dietician and she helped me to make a plan	9	0
+288	Sounds great, can you share the plan she gave you?	1	2
+289	Yes sure, it is an easy plan to manage your diet and exercise	4	4
+290	Is it a plan to balance your diet and exercise as you get older?	4	4
+291	Yes it is, she explained how to make sure to get all the necessary intake to have enough energy for the day	4	0
+292	And what did you learn from her?	9	0
+293	Well, I am now eating more fruits and vegetables throughout the day	4	4
+294	That sounds easy?	9	9
+295	It is, and she also explained to exercise on a regular basis	4	0
+296	What kind of exercise to you prefer to stay healthy?	4	4
+297	I prefer to take long walks outside	8	3
+298	Walking is a really good way to manage one's health	4	4
+299	It is and we should plan to walk together so you can look after your health as well	4	6
+300	Let's do so, and please share the advice of your dietician regarding a balanced diet!	1	4
+301	My neighbor makes loud noise during the late night quite often recently.	6	6
+302	Then you should tell him that you are bothered by the noise.	6	6
+303	But I have good relationship with him. I feel quite embarrased to complaint about the noise. I have been tangled with the thoughts for a few days already.	6	6
+304	No worries, if you are friends, he will understand you.	6	6
+305	You know, I don't quarrel with my neighbor becasue of this.	6	6
+306	Mentally speaking, if you have thoughts and complains, you'd better express how you feel. Otherwise, it might affect your mental health.	6	2
+307	My friend from anti-war association and I feel quite angry about the U.S. blaming the conflicts between Ukrain and Russia.	8	6
+308	What do you think about that?	8	9
+309	Well, I think politians should help both sides to sit down and talk to resolve the conflict in a peaceful way. But not constantly sending weapons to make the situation worse.	8	6
+310	But what can you do about it?	9	2
+311	Of course there is something I can do.  Our association will hold a protest next week	8	8
+312	How about your body situation, can you make it to the protest?	9	4
+313	I think I am fine, as long as I control my emotion and avoid having conflicts with others.	9	6
+314	who does the dishes in your house	5	5
+315	well, that should be me doing the dishes	5	5
+316	oh, why so?	9	2
+317	oh, I suppose its kind of a tradition that the woman takes care of the dishes	6	5
+318	can you still manage to do the dishes?	5	5
+319	oh yes, but there is a difference compared to a couple of years ago in doing the dishes	5	5
+320	how can you do the dishes different?	5	5
+321	we were used to doing the dishes 3 times a day, when the kids were still at home	5	5
+322	ah, you mean that you do the dishes not as many times as before?	5	5
+323	yes, now sometimes don't do the dishes at all	5	5
+324	it can become messy when you don't do the dishes, don't you think	5	5
+325	I used to be more tidy with regard to the dishes than before, I suppose you're right	5	5
+326	Do you like music?	8	9
+327	Yes, I like music very much	8	9
+328	Do you play an instrument yourself?	8	2
+329	No, unfortunately not but I like to listen to music	8	9
+330	What kind of music do you like the most?	8	9
+331	I really like funk, soul and jazz.	8	0
+332	Do you ever go to concerts?	8	8
+333	Yes, I used to go to Prince concerts	8	8
+334	Oh, that's fantastic, me too	9	9
+335	Yes, what a great artist he was.	9	9
+336	In the weekend, I love to prepare meals for myself and the family	5	5
+337	we mostly prepare meals together in the weekend	5	5
+338	On weekdays, I do not have much time to cook but I still manage to prepare something	5	5
+339	I always chose simple recepies during the week	5	5
+340	What is your favorite recipe?	5	9
+341	I like to cook pasta with a nice veggie sause	5	5
+342	Do you like italian food in general?	9	5
+343	yes, I love it and I like to try all kind of recipes	5	0
+344	What kind of knife do you use to cut the vegetables?	5	5
+345	I have a special knife for that, just like a pro :)	5	9
+346	Are you a  vegetarian?	9	9
+347	No, but I limit my meat intake to once a week	9	5
+348	when I got out of bed this morning I almost slipped	3	4
+349	oh really, why did you slip?	3	2
+350	not sure, I think my head was clear yet and I got up to fast	3	9
+351	ooh, that is understandable, you should whatch out when getting up at your age	3	9
+352	not funny, I never have trouble getting out of bed before	3	4
+353	did anything change recently?	9	9
+354	come to think of it, I did start medication recently and on the disclosure I read dissyness could be a side effect	9	0
+355	a, well; there is you explanation than for nearly slipping!	3	3
+356	Tomorrow I will have my first tennis lesson of the season, do you play tennis?	8	0
+357	I play tennis, tough I'm not that good	8	9
+358	Playing sports is important for your health	8	9
+359	Yes, but also for social reasons	8	8
+360	Do you prefer an individual or a team sport?	8	9
+361	I prefer a team sport, because of the social part of it	8	8
+362	Yes, that's also important to me	9	9
+363	In the weekend  I play hockey in a team, we play competition as well	8	8
+364	hockey is a great to play in a team	8	9
+365	Were you not able to concentrate that well today?	0	0
+366	I was not able to concentrate, even though I made a schedule with tasks	0	1
+367	That is a great idea! I will make one to for my work	1	8
+368	Let me know if it will help you as well	1	2
+369	It worked! I arranged for the team to meet, all done now!	1	8
+370	Wonderful that you got it all arranged	1	9
+371	After work, I had to drive in so much traffic	3	3
+372	It can be so hard to drive during rush-hour and concetrate on traffiic	1	9
+373	Today I was home with the kids, had to take them to school, go back home and find time to clean	1	5
+374	that is quite a busy day-schedule	1	1
+375	I was so happy to manage the energy level througout the day and was able to complete it all	1	9
+376	Well done and happy you managed to work and concentrate the whole day	1	1
+377	did you talk with your parents about the thing the other day?	6	2
+378	I tried to, but I did not get the chance?	9	9
+379	what do you mean? did you not have the time or were you not able to start the conversation?	6	2
+380	I really found it hard to start the conversation	6	2
+381	what made it difficult to start the conversation?	6	2
+382	I am afraid my parents will get mad at me for doing the thing	6	6
+383	don't you think they will be more angry when they find out for themselves?	6	6
+384	you are right, it's best to start the conversation myself	6	2
+385	did you hear about the argument in the board last night?	6	2
+386	no, why was there an argument?	6	2
+387	the chair took it upon him to organize stuff without informing the rest of the board	6	1
+388	okay, that's bad. He shoul always keep them in the loop	6	9
+389	he claimed that he did kept them in the loop, but failed to read their messages	6	2
+390	ah, well that is a great way to start an argument. did the argument end well?	9	2
+391	in the end the chair admitted that he might have taken more trouble to inform everyone more personal	6	2
+392	ah, good. Did this take of the heat of the argument	6	2
+393	almost all. They made him promis to improve is communicaton in the futre	6	9
+394	Do you have time for dinner on Friday?	8	5
+395	Well, I usually am a bit busy on Friday and finish working at 19:00	7	1
+396	Oh, maybe we can meet after work, but tell me what do you usually do on Friday?	6	8
+397	I wake up early to have breakfast and then go to the office, once I am at the office I have meeting until 13:00	7	1
+398	That sounds like a busy schedule, Don't you have lunch at one point?	4	1
+399	Yes, I have lunch after my meetings and then take a break with my colleagues	4	7
+400	After I go back to the office and work on my project until five when i have to leave and pick up my dog at the pet salon	7	1
+401	Oh wow, he is a lucky dog. But he can come with us to have dinner if you want	8	6
+402	That would be great, in that sense I do not have to bring him home and we can meet at 19:00	8	6
+403	He, do you fancy going to watch a football match in the stadium tonight?	8	8
+404	Yes I would love too, it has been ages since I watched a match	8	9
+405	Do you know who is playing?	9	2
+406	No I don't, but I dont' mind I just really like to go	9	8
+407	I will pick you up, I will take two more friend to see the match as well	6	8
+408	We are not going with just the two of us?	6	6
+409	No we are not	9	9
+410	Than I prefer to stay home and watch a good movie on tv	1	5
+411	Do you prefer to see a movie on TV over a match?	1	9
+412	Yes, if we are not going with just us I do	9	9
+413	are still doing your own household	5	5
+414	oh yes, I still do part of my own household	5	5
+415	could you elaborate on your household, what do you do	5	9
+416	well, I take dust every wednesday, and the beds on friday	5	5
+417	okay, great that you are still able to do your own bed	5	9
+418	yes, we do the beds together with my husband. he helps when I ask	5	5
+419	ah, and who does the vacuum cleaning?	5	5
+420	vacuum cleaning is usely his job, when I water the plants	5	5
+421	good to hear that you collaborate with your husband in doing the household	5	6
+422	are their any tasks in the household for which you need external support	5	5
+423	oh yes, once a week we get the help who takes care of the major things in the household	5	5
+424	ah, you mean window cleaning and or mopping	5	5
+425	yes, for mopping and window cleaning we need help, but all other stuff concerning the household we do ourselves	5	5
+426	I have some good friends I hang out with on the weekends, and you?	6	6
+427	Yes, me too; I like to sit by the campfire on weekends with friends.	6	6
+428	With music and good conversations for sure?	8	2
+429	Yes, those are the best nights for me	9	9
+430	Right, friendship is super important in life	6	6
+431	Do you have a lot of friends?	6	6
+432	No, I have a few, but we are very close	6	6
+433	Yes, that goes for me too	9	9
+434	I would rather have a small group of good friends than a large group of people with whom I am not so close	6	6
+435	Yes, I agree	9	9
+436	I feel it's difficult for me to hear things clearly nowadays.	9	2
+437	Hello, Hello. Can you hear me?	2	2
+438	Sure, but if you are 5 meters away from me, then it's difficult.	9	3
+439	When did you notice that?	9	2
+440	It starts around 1 year ago but it didn't affect my daily life yet. So I didn't care about it that much. However, recently, when I talked to my friends, I had to ask them to speak louder quite often so that I can hear what they said.	2	2
+441	Have your ears ever been hurt or impaired by very loud sounds?	9	2
+442	None that I've known of.	9	9
+443	That might be caused by aging. It's better to have a check with your GP.	9	0
+444	I see some colleagues as friends	6	6
+445	Do you also see them outside of work?	9	2
+446	Yes, we often see each other on Friday afternoons for drinks	6	6
+447	Having good relationships at work is important to me	6	6
+448	Yes, we spend a lot of time at work, don't we?	7	6
+449	We often spend more time with colleagues than with our families	6	6
+450	Do you have less contact with your colleagues now that you are working less due to illness?	6	6
+451	Yes, it definitely affects the relationship with my colleagues	6	6
+452	Are they considerate toward you now that you are there less?	6	6
+453	Yes, they always ask how I am doing	9	2
+454	Hi, how are you doing; are you still painting?	8	2
+455	No, not as much as I would like	9	9
+456	How come?	9	9
+457	My right arm hurts a lot when I paint.	9	0
+458	Oh that's annoying, can you do anything about it?	9	6
+459	I'm being treated by a physiotherapist and it's getting better.	9	4
+460	Can you express yourself creatively in any other way at the moment?	8	2
+461	Yes, I go to museums a lot to enjoy art	8	8
+462	Oh, that's nice	9	9
+463	Yes, looking at art also gives me a lot of pleasure	8	9
+464	Were you raised religiously?	9	6
+465	Yes, I went to church every week with my parents	9	8
+466	And do you still do that?	9	9
+467	No, not for a long time, actually only at Christmas	9	9
+468	Have you found another way to believe?	8	0
+469	I don't believe in a god, but I am spiritual	8	9
+470	Oh, me too; I follow some spiritual leaders	8	8
+471	Yes, me too, and I get a lot out of it	9	9
+472	Yes, there are some important messages in it that help me in life	8	9
+473	Yes, for me it's important too	9	9
+474	Do you manage your finances well?	7	5
+475	I have trouble managing my finances after my resignition	7	7
+476	And are you also saving money?	7	7
+477	we saved money to buy a car last year	7	5
+478	I am happy I can provide for myself financially because I work	7	7
+479	My wife has a really good job and is able to provide for the house	7	5
+480	Since the energy costs increased immensely....	9	5
+481	Yes, life is expensive at the moment	9	7
+482	Do you spend your money on holidays?	7	7
+483	Yes, I do but I go camping this year because hotels are way to expensive	9	8
+484	Okay, yes can imagine	9	9
+485	I got a head rush quite often recently.	9	4
+486	How does the head rush normally happen?	9	9
+487	It occurs when I climb the stairs or when Istand up from a squat.	9	3
+488	How stong does it feel?	9	2
+489	Sometime, I feel like I cannot stand steadily and have to hold something to support myself.	3	3
+490	How long does it take to recover from the rush?	9	9
+491	Around half a minute, somthing like that.	9	9
+492	Did you measure you blood pressure recently?	9	4
+493	Nope	9	9
+494	Maybe we should first mesure your blood pressure.	9	4
+495	I couldn't mop the floor like how I did before anymore.	5	5
+496	I am sorry to hear that, but why?	9	9
+497	I could mop the floor of the whole appartement before. But now, I get pain in my waist already after mopping just the living room floor. I can not bend my waist for a long while anymore.	5	5
+498	True, bending for a long time will cause excessive load on your waist. Do you need to do any other chores or movement that will require you to bend your waist for a long time?	5	3
+499	I also did quite some gardening recently. Maybe that also hurt my waist.	5	5
+500	It might be. You'd better take a rest for a few days and avoid bending your waist. Even if you need to bend your waist, you 'd better just keep it for just a really short while. And if you still have the pain, it's necessary to visit the doctor.	9	4
+501	How is your education going?	7	0
+502	I am too tired to study well at the moment	0	0
+503	Oh,that's annoying. How long has it been bothering you?	9	6
+504	Since I had a COVID infection 10 months ago.	9	4
+505	Did you pass any exams during that period?	7	0
+506	I've only passed one out of five.	9	0
+507	Have you applied for an extension ?	9	2
+508	Yes, that application is now pending	9	9
+509	I hope you can resume your education soon and start feeling better	7	0
+510	Yes, thank you!	9	2
+511	how do you feel recently?	9	2
+512	Nothing wrong, except that my legs feels weak every time after a long walk.	3	3
+513	Which part of the leg feels weak? Your thighs or your claves? On the left side or on the right side? 	9	4
+514	The right side. It feels like it happens on my thigh.	9	4
+515	When did you start feeling it's weak?	9	2
+516	It's been almost 3 months.	9	9
+517	Did you get injured 3 months before?	9	9
+518	Nope.	9	9
+519	After walking for how long or how far would your right thigh start feeling weak?	3	3
+520	Half an hour or one kilometers somthing like that.	9	3
+521	How do you interact with your neighbors?	6	6
+522	We greet each other when we meet, but that's all.	6	6
+523	And do you help each other when necessary?	6	6
+524	Yes, we can always ask our neighbors for help.	6	6
+525	That's important, it's not always like that.	9	9
+526	No, in big cities you can live very anonymously	9	7
+527	People can get lonely	6	9
+528	Yes, promoting contacts in the neighborhood can be important when people are in need of help	8	8
+529	Do you know of any projects that try to improve contacts in the neighborhood?	8	8
+530	Yes, I know of some; for example, a project where elderly people and students interact and do things for each other	8	8
+531	That's a very good initiative!	9	9
+532	 Do you go to church on Sunday?	8	8
+533	I only go to church when I feel up to it	8	8
+534	I find the social part in our church community an important aspect	8	8
+535	How do mean?	9	2
+536	I mean, people really care for eachother 	6	6
+537	That must bring a lot of support and comfort to people	6	8
+538	yes, especcially to the vulnerable people in our community	9	8
+539	Does the city you live in also provide support for these people, outside the church	8	8
+540	yes, i sometimes help as a volunteer 	7	8
+541	What do you do then?	9	9
+542	I bring people to the hospital for example or help them to organize their finances	8	8
+543	Oh, very good!	9	9
+544	I'm having difficulty speaking lately. Can you help me?	9	2
+545	What seems to be the trouble when you speak?	9	2
+546	I have difficulty in saying what I am thinking. 	9	2
+547	do you know in your head what you want to say?	9	2
+548	yes, I can see the words in front of me, but when I speak my mouth hesitates	9	2
+549	there seems to be a motor problem and willl refer you to a speach therapist	9	2
+550	when you spoke to Ed eysterday, did he mention he was happy?	9	6
+551	I did speak to Ed, but he did not seem happy	9	6
+552	that is odd, he called me to say hey got good grades on his finals	7	2
+553	ah, great! we only spoke about his grandparents and the are ill. So, no reason to be cheerfull	9	6
+554	okay, that explains it. if you see him next time congratulate him with his grades!	7	6
+555	I will sure do, that might cheer him up	9	6
+556	Did you do something interesting today?	9	9
+557	Not really, I just went to work in the morning and had a couple of meetings in the morning	7	1
+558	Well, meetings can also be fun sometimes. But how was your day overall?	9	2
+559	It was good after the meeting I helped a colleague with an interesting task and then went to get a coffe	1	1
+560	Then went back to my office to work on the code and finish a document for my supervisor	7	1
+561	Sounds like a very productive day, did you do something else to relax after work?	1	9
+562	Well, after work I was hungry so I decided to make dinner and work a bit on my personal project	5	5
+563	Seems like you had a lot to do today, I hope you can relax next days	9	9
+564	I also went to work and after I went swimming before coming home to relax	1	1
+565	Sounds like we had a busy and productive day, good for us	9	9
+566	I feel it's difficult for me to get out of bed recently.	3	4
+567	Oh, why?	9	9
+568	I feel it was hard to breathe smoothly when I tried to get up from the bed.	3	3
+569	Do you have any chronic lung disease or do you smoke?	9	2
+570	My body check shows that there are some problems, and the doctor told me to have regular checks. Emm, I have smoked for almost 40 years already.	9	4
+571	How long have you felt difficult to get out of bed already? Do you have the same feeling every time when you get out of bed?	3	4
+572	It's been almost 2 months, and yes, I have the same feeling almost every time.	3	4
+573	I invest my money, do you?	7	7
+574	Yes, I do but I don't take much risk	9	3
+575	I only take risk with a small portion of my savings	7	7
+576	What do you invest in then?	7	7
+577	I invest in crypto's	7	8
+578	Oh yes, that market is quite uncertain	9	9
+579	Yes, but in the longer term I think it will go in the right direction	9	0
+580	Is it the future according to you?	9	9
+581	yes, I expect a lot from it	9	9
+582	Then let's hope those expectations come true	9	9

@@ -1,0 +1,2205 @@
+Activities and Participation 
+ACTIVITIES AND 
+PARTICIPATION 
+ICF 
+ 
+Definitions: 
+Activity is the execution of a task or action by an individual.  
+ Participation is involvement in a life situation.  
+ Activity limitations are difficulties an individual may have in 
+executing activities. 
+Participation restrictions are problems an individual may 
+experience in involvement in life situations.  
+Qualifiers 
+The domains for the Activities and Participation component are given in a single 
+list that covers the full range of life areas (from basic learning and watching to 
+composite areas such as social tasks).  This component can be used to denote 
+activities (a) or participation (p) or both.  
+The two qualifiers for the Activities and Participation component are the 
+performance qualifier and the capacity qualifier. The performance qualifier 
+describes what an individual does in his or her current environment. Because the 
+current environment brings in a societal context, performance as recorded by 
+this qualifier can also be understood  as "involvement in a life situation" or "the 
+lived experience" of people in the actual context in which they live. This context 
+includes the environmental factors – all aspects of the physical, social and 
+attitudinal world, which can be coded using the Environmental Factors 
+component.  
+The capacity qualifier describes an individual’s ability to execute a task or an 
+action. This qualifier identifies the highest probable level of functioning that a 
+person may reach in a given domain at a given moment. Capacity is measured in 
+a uniform or standard environment, and thus reflects the environmentally 
+adjusted ability of the individual. The Environmental Factors component can be 
+used to describe the features of this uniform or standard environment.  
+ 
+ 
+ 
+ 
+ 
+127 
+Activities and Participation 
+ 
+Both capacity and performance qualifiers can be used both with and without 
+assistive devices or personal assistance, and in accordance with the following 
+scale: 
+ 
+xxx.0  NO difficulty 
+xxx.1  MILD difficulty  
+xxx.2  MODERATE difficulty 
+xxx.3  SEVERE difficulty  
+xxx.4 COMPLETE difficulty 
+xxx.8  not specified 
+xxx.9  not applicable 
+(none, absent, negligible,… ) 
+(slight, low,…) 
+(medium, fair,...) 
+(high, extreme, …) 
+(total,…) 
+ 
+ICF 
+0-4 % 
+5-24 % 
+25-49 % 
+50-95 % 
+96-100 % 
+ 
+Broad ranges of percentages are provided for those cases in which calibrated 
+assessment instruments or other standards are available to quantify the 
+performance problem or capacity limitation.  For example, when no 
+performance problem or a complete performance problem is coded, this scaling 
+has a margin of error of up to 5%. A moderate performance problem is defined 
+as up to half of the scale of a total performance problem. The percentages are to 
+be calibrated in different domains with reference to population standards as 
+percentiles. For this quantification to be used in a uniform manner, assessment 
+procedures need to be developed through  research. 
+For a further explanation of coding convention in ICF, refer to Annex 2.  
+ 
+ 
+ 
+128 
+ICF 
+Activities and Participation 
+Chapter 1   
+Learning and applying knowledge 
+This chapter is about learning, applying the knowledge that is learned, thinking, 
+solving problems, and  making decisions. 
+ 
+Purposeful sensory experiences (d110-d129) 
+ 
+ d 110   Watching 
+Using the sense of seeing intentionally to experience visual stimuli, 
+such as watching a sporting event or children playing. 
+ 
+ d 115   Listening 
+Using the sense of hearing intentionally to experience auditory stimuli, 
+such as listening to a radio, music or a lecture. 
+ 
+ d 120   Other purposeful sensing 
+Using the body’s other basic senses intentionally to experience stimuli, 
+such as touching and feeling textures, tasting sweets or smelling 
+flowers. 
+ 
+ d 129   Purposeful sensory experiences, other specified and unspecified 
+ 
+Basic learning (d130-d159) 
+ 
+ d 130   Copying 
+Imitating or mimicking as a basic component of learning, such as 
+copying a gesture, a sound or the letters of an alphabet. 
+ 
+ d 135   Rehearsing 
+Repeating a sequence of events or symbols as a basic component of 
+learning, such as counting by tens or practising the recitation of a 
+poem. 
+ 
+ d 140   Learning to read 
+Developing the competence to read written material (including Braille) 
+with fluency and accuracy, such as recognizing characters and 
+alphabets, sounding out words with correct pronunciation, and 
+understanding words and phrases. 
+ 
+ 
+129 
+Activities and Participation 
+ 
+ d 145   Learning to write 
+ICF 
+Developing the competence to produce symbols that represent sounds, 
+words or phrases in order to convey meaning (including Braille 
+writing), such as spelling effectively and using correct grammar. 
+ 
+ d 150   Learning to calculate 
+Developing the competence to manipulate numbers and perform simple 
+and complex mathematical operations, such as using mathematical 
+signs for addition and subtraction and applying the correct 
+mathematical operation to a problem. 
+ 
+ d 155   Acquiring skills 
+Developing basic and complex competencies in integrated sets of 
+actions or tasks so as to initiate and follow through with the acquisition 
+of a skill, such as manipulating tools or playing games like chess. 
+Inclusions:  acquiring basic and complex skills 
+d 1550  Acquiring basic skills  
+Learning elementary, purposeful actions, such as learning to 
+manipulate eating utensils, a pencil or a simple tool. 
+d 1551  Acquiring complex skills  
+Learning integrated sets of actions so as to follow rules, and to 
+sequence and coordinate one's movements, such as learning to 
+play games like football or to use a building tool. 
+d 1558  Acquiring skills, other specified  
+d 1559  Acquiring skills, unspecified  
+ 
+ 
+ 
+ 
+ 
+ d 159   Basic learning, other specified and unspecified 
+ 
+Applying knowledge  (d160-d179) 
+ 
+ d 160   Focusing attention 
+Intentionally focusing on specific stimuli, such as by filtering out 
+distracting noises. 
+ 
+ 
+130 
+ICF 
+ d 163   Thinking 
+Activities and Participation 
+Formulating and manipulating ideas, concepts, and images, whether 
+goal-oriented or not, either alone or with others, such as creating 
+fiction, proving a theorem, playing with ideas, brainstorming, 
+meditating, pondering, speculating, or reflecting. 
+Exclusions: solving problems (d175);  making decisions (d177) 
+ 
+ d 166   Reading 
+Performing activities involved in the comprehension and interpretation 
+of written language (e.g. books, instructions or newspapers in text or 
+Braille), for the purpose of obtaining general knowledge or specific 
+information. 
+Exclusion:  learning to read (d140) 
+ 
+ d 170   Writing 
+Using or producing symbols or language to convey information, such 
+as producing a written record of events or ideas or drafting a letter. 
+Exclusion:  learning to write (d145) 
+ 
+ d 172   Calculating 
+Performing computations by applying mathematical principles to solve 
+problems that are described in words and producing or displaying the 
+results, such as computing the sum of three numbers or finding the 
+result of dividing one number by another. 
+Exclusion:  learning to calculate (d150) 
+ 
+ d 175   Solving problems 
+Finding solutions to questions or situations by identifying and 
+analysing issues, developing options and solutions, evaluating potential 
+effects of solutions, and executing a chosen solution, such as in 
+resolving a dispute between two people. 
+Inclusions: solving simple and complex problems 
+Exclusions:  thinking (d163); making decisions (d177) 
+d 1750  Solving simple problems  
+Finding solutions to a simple problem involving a single issue 
+or question, by identifying and analysing the issue, developing 
+solutions, evaluating the potential effects of the solutions and 
+executing a chosen solution. 
+131 
+ 
+ 
+ 
+Activities and Participation 
+ 
+d 1751  Solving complex problems  
+ICF 
+Finding solutions to a complex problem involving multiple 
+and interrelated  issues, or several related problems, by 
+identifying and analysing the issue, developing solutions, 
+evaluating the potential effects of the solutions and executing 
+a chosen solution. 
+ 
+ 
+ 
+d 1758  Solving problems, other specified  
+d 1759  Solving problems, unspecified  
+ d 177   Making decisions 
+Making a choice among options, implementing the choice, and 
+evaluating the effects of the choice, such as selecting and purchasing a 
+specific item, or deciding to undertake and undertaking one task from 
+among several tasks that need to be done. 
+Exclusions:  thinking (d163); solving problems (d175) 
+ 
+ d 179   Applying knowledge, other specified and unspecified 
+ 
+ d 198   Learning and applying knowledge, other specified 
+ 
+ d 199   Learning and applying knowledge, unspecified 
+ 
+ 
+132 
+ICF 
+Activities and Participation 
+Chapter 2   
+General tasks and demands 
+This chapter is about general aspects of carrying out single or multiple tasks, 
+organizing routines and handling stress. These items can be used in conjunction 
+with more specific tasks or actions to identify the underlying features of the 
+execution of tasks under different circumstances. 
+ 
+ d 210   Undertaking a single task 
+Carrying out simple or complex and coordinated actions related to the 
+mental and physical components of a single task, such as initiating a 
+task, organizing time, space and materials for a task, pacing task 
+performance, and carrying out, completing, and sustaining a task. 
+Inclusions: undertaking a simple or complex task; undertaking a single 
+task independently or in a group 
+Exclusions: acquiring skills (d155); solving problems (d175); making 
+decisions  (d177); undertaking multiple tasks (d220) 
+d 2100  Undertaking a simple task  
+Preparing, initiating and arranging the time and space required 
+for a simple task; executing a simple task with a single major 
+component, such as reading a book, writing a letter, or making 
+one’s bed. 
+d 2101  Undertaking a complex task  
+Preparing, initiating and arranging the time and space for a 
+single complex task; executing a complex task with more than 
+one component, which may be carried out in sequence or 
+simultaneously, such as arranging the furniture in one's home 
+or completing an assignment for school. 
+d 2102  Undertaking a single task independently  
+Preparing, initiating and arranging the time and space for a 
+simple or complex task; managing and executing a task on 
+one’s own and without the assistance of others. 
+d 2103  Undertaking a single task in a group  
+Preparing, initiating and arranging the time and space for a 
+single task, simple or complex;  managing and executing a 
+task with people who are involved in some or all steps of the 
+task. 
+d 2108  Undertaking single tasks, other specified  
+d 2109  Undertaking single tasks, unspecified  
+133 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ d 220   Undertaking multiple tasks 
+ICF 
+Carrying out simple or complex and coordinated actions as components 
+of multiple, integrated and complex tasks in sequence or 
+simultaneously. 
+Inclusions:  undertaking multiple tasks; completing multiple tasks; 
+undertaking multiple tasks independently and in a group 
+Exclusions: acquiring skills (d155); solving problems (d175); making 
+decisions (d177); undertaking a single task (d210) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 2200  Carrying out multiple tasks  
+Preparing, initiating and arranging the time and space needed 
+for several tasks, and managing and executing several tasks, 
+together or sequentially. 
+d 2201  Completing multiple tasks  
+Completing several tasks, together or sequentially. 
+d 2202  Undertaking multiple tasks independently  
+Preparing, initiating and arranging the time and space for 
+multiple tasks, and managing and executing several tasks 
+together or sequentially, on one’s own and without the 
+assistance of others. 
+d 2203  Undertaking multiple tasks in a group  
+Preparing, initiating and arranging the time and space for 
+multiple tasks, and managing and executing several tasks 
+together or sequentially with others who are involved in some 
+or all steps of the multiple tasks. 
+d 2208  Undertaking multiple tasks, other specified  
+d 2209  Undertaking multiple tasks, unspecified  
+ d 230   Carrying out daily routine 
+Carrying out simple or complex and coordinated actions in order to 
+plan, manage and complete the requirements of day-to-day procedures 
+or duties, such as budgeting time and making plans for separate 
+activities throughout the day. 
+Inclusions:  managing and completing the daily routine; managing 
+one's own activity level 
+Exclusion: undertaking multiple tasks (d220) 
+ 
+ 
+134 
+ICF 
+Activities and Participation 
+d 2301  Managing daily routine  
+Carrying out simple or complex and coordinated actions in 
+order to plan and manage the requirements of day-to-day 
+procedures or duties. 
+d 2302  Completing the daily routine  
+Carrying out simple or complex and coordinated actions in 
+order to complete the requirements of day-to-day procedures 
+or duties, such as getting dressed, eating breakfast, leaving for school or work and returning home at the end of the day. 
+d 2303  Managing one's own activity level  
+Carrying out actions and behaviours to arrange the 
+requirements in energy and time day-to-day procedures or 
+duties. 
+d 2308  Carrying out daily routine, other specified  
+d 2309  Carrying out daily routine, unspecified
+d2304 Adapting to changes in daily routine
+Interrupting and shifting tasks and actions in response to new requirements or making a transition from a usual pattern of activities to a new set of activities as a means of fulfilling daily tasks.
+ 
+ 
+ 
+ 
+ 
+ d 240   Handling stress and other psychological demands 
+Carrying out simple or complex and coordinated actions to manage and 
+control the psychological demands required to carry out tasks 
+demanding significant responsibilities and involving stress, distraction, 
+or crises, such as driving a vehicle during heavy traffic or taking care 
+of many children. 
+Inclusions:  handling responsibilities; handling stress and crisis 
+ 
+ 
+ 
+ 
+ 
+ 
+d 2400  Handling responsibilities  
+Carrying out simple or complex and coordinated actions to 
+manage the duties of task performance and to assess the 
+requirements of these duties. 
+d 2401  Handling stress  
+Carrying out simple or complex and coordinated actions to 
+cope with pressure, emergencies or stress associated with task 
+performance. 
+d 2402  Handling crisis  
+Carrying out simple or complex and coordinated actions to 
+cope with decisive turning points in a situation or times of 
+acute danger or difficulty. 
+d 2408  Handling stress and other psychological demands, other 
+specified  
+135 
+Activities and Participation 
+ 
+ICF 
+ 
+d 2409  Handling stress and other psychological demands, unspecified  
+ d 298   General tasks and demands, other specified 
+ 
+ d 299   General tasks and demands, unspecified 
+ 
+ 
+136 
+ICF 
+Activities and Participation 
+Chapter 3   
+Communication 
+This chapter is about general and specific features of communicating by 
+language, signs and symbols, including receiving and producing messages, 
+carrying on conversations, and using communication devices and techniques. 
+ 
+Communicating - receiving (d310-d329) 
+ 
+ d 310   Communicating with - receiving - spoken messages 
+Comprehending literal and implied meanings of messages in spoken 
+language, such as  understanding that a statement asserts a fact or is an 
+idiomatic expression. 
+ 
+ d 315   Communicating with - receiving - nonverbal messages 
+Comprehending the literal and implied meanings of messages 
+conveyed by gestures, symbols and drawings, such as realizing that a 
+child is tired when she rubs her eyes or that a warning bell means that 
+there is a fire. 
+Inclusions: communicating with - receiving - body gestures, general 
+signs and symbols, drawings and photographs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 3150  Communicating with - receiving - body gestures  
+Comprehending  the meaning conveyed by facial expressions, 
+hand movements or signs, body postures, and other forms of 
+body language. 
+d 3151  Communicating with - receiving - general signs and symbols  
+Comprehending the meaning represented by public signs and 
+symbols, such as traffic signs, warning symbols, musical or 
+scientific notations, and icons. 
+d 3152  Communicating with - receiving - drawings and photographs  
+Comprehending the meaning represented by drawings (e.g. 
+line drawings, graphic designs, paintings, three-dimensional 
+representations), graphs, charts and photographs, such as 
+understanding that an upward line on a height chart indicates 
+that a child is growing. 
+d 3158  Communicating with - receiving - nonverbal messages, other 
+specified  
+d 3159  Communicating with - receiving - nonverbal messages, 
+unspecified  
+137 
+Activities and Participation 
+ 
+ d 320   Communicating with - receiving - formal sign language messages 
+ICF 
+Receiving and comprehending messages in formal sign language with 
+literal and implied meaning. 
+ 
+ d 325   Communicating with - receiving - written messages 
+Comprehending the literal and implied meanings of messages that are 
+conveyed through written language (including Braille), such as 
+following political events in the daily newspaper or understanding the 
+intent of religious scripture. 
+ 
+ d 329   Communicating - receiving, other specified and unspecified 
+ 
+Communicating - producing (d330-d349) 
+ 
+ d 330   Speaking 
+Producing words, phrases and longer passages in spoken messages 
+with literal and implied meaning, such as expressing a fact or telling a 
+story in oral language. 
+
+ d331 Non-speech vocal expression 
+Vocalising when aware of another person in the proximal environment, such as making a sound when the mother is close; babbling; babbling in turn-taking activities. Vocalising in response to speech through imitating speech-sounds in a turn taking procedure. 
+
+ d332 Singing
+Producing tones in a sequence resulting in a melody to convey messages.
+ 
+ d 335   Producing nonverbal messages 
+Using gestures, symbols and drawings to convey messages, such as 
+shaking one's head to indicate disagreement or drawing a picture or 
+diagram to convey a fact or complex idea. 
+Inclusions:  producing body gestures, signs, symbols, drawings and 
+photographs 
+ 
+ 
+ 
+ 
+ 
+ 
+d 3350  Producing body language  
+Conveying meaning by movements of the body, such as facial 
+gestures (e.g. smiling, frowning, wincing), arm and hand 
+movements, and postures (e.g. such as embracing to indicate 
+affection). 
+d 3351  Producing signs and symbols  
+Conveying meaning by using signs and symbols (e.g. icons, 
+Bliss board, scientific symbols) and symbolic notation 
+systems, such as using musical notation to convey a melody. 
+d 3352  Producing drawings and photographs  
+Conveying meaning by drawing, painting, sketching, and 
+making diagrams, pictures or photographs, such as drawing a 
+map to give someone directions to a location. 
+d 3358  Producing nonverbal messages, other specified  
+138 
+ICF 
+ 
+d 3359  Producing nonverbal messages, unspecified  
+Activities and Participation 
+ d 340   Producing messages in formal sign language 
+Conveying, with formal sign language, literal and implied meaning. 
+ 
+ d 345   Writing messages 
+Producing the literal and implied meanings of messages that are 
+conveyed through written language, such as writing a letter to a friend. 
+ 
+ d 349   Communication - producing, other specified and unspecified 
+ 
+Conversation  and use of communication devices and 
+techniques (d350-d369) 
+ 
+ d 350   Conversation 
+Starting, sustaining and ending an interchange of thoughts and ideas, 
+carried out by means of spoken, written, sign or other forms of 
+language, with one or more people one knows or who are strangers, in 
+formal or casual settings. 
+Inclusions: starting, sustaining and ending a conversation; conversing 
+with one or many people 
+ 
+ 
+ 
+ 
+ 
+ 
+d 3500  Starting a conversation  
+Beginning a dialogue or interchange, such as by introducing 
+oneself, expressing customary greetings, and introducing a 
+topic or asking questions. 
+d 3501  Sustaining a conversation  
+Continuing and shaping a dialogue or interchange by adding 
+ideas, introducing a new topic or retrieving a topic that has 
+been previously mentioned, as well as by taking turns in 
+speaking or signing. 
+d 3502  Ending a conversation  
+Finishing a dialogue or  interchange with customary 
+termination statements or expressions and by bringing closure 
+to the topic under discussion. 
+d 3503  Conversing with one person  
+Initiating, maintaining, shaping and terminating a dialogue or 
+interchange with one person, such as in discussing the weather 
+with a friend. 
+139 
+Activities and Participation 
+ 
+d 3504  Conversing with many people  
+ICF 
+Initiating, maintaining, shaping and terminating a dialogue or 
+interchange with more than one individual, such as in starting 
+and participating in a group interchange. 
+ 
+ 
+ 
+d 3508  Conversation, other specified  
+d 3509  Conversation, unspecified  
+ d 355   Discussion 
+Starting, sustaining and ending an examination of a matter, with 
+arguments for or against, or debate carried out by means of spoken, 
+written, sign or other forms of language, with one or more people one 
+knows or who are strangers, in formal or casual settings. 
+Inclusion: discussion with one person or many people 
+d 3550  Discussion with one person  
+Initiating, maintaining, shaping or terminating an argument or 
+debate with one person. 
+d 3551  Discussion with many people  
+Initiating, maintaining, shaping or terminating an argument or 
+debate with more than one individual. 
+d 3558  Discussion, other specified  
+d 3559  Discussion, unspecified  
+ 
+ 
+ 
+ 
+ 
+ d 360   Using communication devices and techniques 
+Using devices, techniques and other means for the purposes of 
+communicating, such as calling a friend on the telephone. 
+Inclusions: using telecommunication devices, using writing machines 
+and communication techniques 
+ 
+ 
+ 
+ 
+d 3600  Using telecommunication devices  
+Using telephones and other machines, such as facsimile or 
+telex machines, as a means of communication. 
+d 3601  Using writing machines  
+Using machines for writing, such as typewriters, computers 
+and Braille writers, as a means of communication. 
+140 
+ICF 
+ 
+ 
+ 
+Activities and Participation 
+d 3602  Using communication techniques  
+Performing actions and tasks involved in techniques for 
+communicating, such as reading lips. 
+d 3608  Using communication devices and techniques, other specified  
+d 3609  Using communication devices and techniques, unspecified  
+ d 369   Conversation and use of communication devices and techniques, other 
+ 
+specified and unspecified 
+ d 398   Communication, other specified 
+ 
+ d 399   Communication, unspecified 
+ 
+ 
+141 
+Activities and Participation 
+ 
+Chapter 4   
+Mobility 
+ICF 
+This chapter is about moving by changing body position or location or by 
+transferring from one place to another, by carrying, moving or manipulating 
+objects, by walking, running or climbing, and by using various forms of 
+transportation. 
+ 
+Changing and maintaining body position (d410-
+d429) 
+ 
+ d 410   Changing basic body position 
+Getting into and out of a body position and moving from one location 
+to another, such as getting up out of a chair to lie down on a bed, and 
+getting into and out of positions of kneeling or squatting. 
+Inclusion: changing body position from lying down, from squatting or 
+kneeling, from sitting or standing, bending and shifting the body's 
+centre of gravity 
+Exclusion: transferring oneself (d420) 
+d 4100  Lying down  
+Getting into and out of a lying down position or changing 
+body position from horizonal to any other position, such as 
+standing up or sitting down. 
+Inclusion: getting into a prostrate position 
+d 4101  Squatting  
+Getting into and out of the seated or crouched posture on one's 
+haunches with knees closely drawn up or sitting on one's 
+heels, such as may be necessary in toilets that are at floor 
+level, or changing body position from squatting to any other 
+position, such as standing up. 
+d 4102  Kneeling  
+Getting into and out of a position where the body is supported 
+by the knees with legs bent, such as during prayers, or 
+changing body position from kneeling to any other position, 
+such as standing up. 
+142 
+ 
+ 
+ 
+ 
+ 
+ICF 
+Activities and Participation 
+d 4103  Sitting  
+Getting into and out of a seated position and changing body 
+position from sitting down to any other position, such as 
+standing up or lying down. 
+Inclusions: getting into a sitting position with bent legs or 
+cross-legged; getting into a sitting position with feet 
+supported or unsupported 
+d 4104  Standing  
+Getting into and out of a standing position or changing body 
+position from standing to any other position, such as lying 
+down or sitting down. 
+d 4105  Bending  
+Tilting the back downwards or to the side, at the torso, such as 
+in bowing or reaching down for an object. 
+d 4106  Shifting the body's centre of gravity  
+Adjusting or moving the weight of the body from one position 
+to another while sitting, standing or lying, such as moving 
+from one foot to another while standing. 
+Exclusions:  transferring oneself (d420); walking  (d450) 
+d 4108  Changing basic body position, other specified  
+d 4109  Changing basic body position, unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ d 415   Maintaining a body position 
+Staying in the same body position as required, such as remaining 
+seated or remaining standing for work or school. 
+Inclusions: maintaining a lying, squatting, kneeling, sitting and 
+standing position 
+ 
+ 
+ 
+ 
+d 4150  Maintaining a lying position  
+Staying in a lying position for some time as required, such as 
+remaining in a prone position in a bed. 
+Inclusions: staying in a prone (face down or  prostrate), 
+supine (face upwards) or side-lying position 
+d 4151  Maintaining a squatting position  
+Staying in a squatting position for some time as required, such 
+as when sitting on the floor without a seat. 
+143 
+Activities and Participation 
+ 
+ICF 
+d 4152  Maintaining a kneeling position  
+Staying in a kneeling position where the body is supported by 
+the knees with legs bent for some time as required, such as 
+during prayers in church. 
+ 
+ 
+ 
+ 
+ 
+d 4153  Maintaining a sitting position  
+Staying in a seated position, on a seat or the floor, for some 
+time as required, such as when sitting at a desk or table. 
+Inclusions: staying in a sitting position with straight legs or 
+cross-legged, with feet supported or unsupported 
+d 4154  Maintaining a standing position  
+Staying in a standing position for some time as required, such 
+as when standing in a queue. 
+Inclusions: staying in a standing position on a slope, on 
+slippery or hard surfaces 
+d 4158  Maintaining a body position, other specified  
+d 4159  Maintaining a body position, unspecified  
+ d 420   Transferring oneself 
+Moving from one surface to another, such as sliding along a bench or 
+moving from a bed to a chair, without changing body position. 
+Inclusions: transferring oneself while sitting or lying 
+Exclusion: changing basic body position (d410) 
+d 4200  Transferring oneself while sitting  
+Moving from a sitting position on one seat to another seat on 
+the same or a different level, such as moving from a chair to a 
+bed. 
+Inclusions:  moving from a chair to another seat, such as a 
+toilet seat; moving from a wheelchair to a car seat 
+Exclusion:  changing basic body position (d410) 
+d 4201  Transferring oneself while lying  
+Moving from one lying position to another on the same or a 
+different level, such as moving from one bed to another. 
+Exclusion: changing basic  body position (d410) 
+d 4208  Transferring oneself, other specified  
+d 4209  Transferring oneself, unspecified  
+144 
+ 
+ 
+ 
+ 
+ 
+ 
+ICF 
+Activities and Participation 
+ d 429   Changing and maintaining body position, other specified and 
+ 
+unspecified 
+Carrying, moving and handling objects (d430-d449) 
+ 
+ d 430   Lifting and carrying objects 
+Raising up an object or taking something from one place to another, 
+such as when lifting a cup or carrying a child from one room to 
+another. 
+Inclusions: lifting, carrying in the hands or arms, or on shoulders, hip, 
+back or head; putting down 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 4300  Lifting  
+Raising up an object in order to move it from a lower to a 
+higher level, such as when lifting a glass from the table. 
+d 4301  Carrying in the hands  
+Taking or transporting an object from one place to another 
+using the hands, such as when carrying a drinking glass or a 
+suitcase. 
+d 4302  Carrying in the arms  
+Taking or transporting an object from one place to another 
+using the arms and hands, such as when carrying a child. 
+d 4303  Carrying on shoulders, hip and back  
+Taking or transporting an object from one place to another 
+using the shoulders, hip or back, or some combination of 
+these, such as when carrying a large parcel. 
+d 4304  Carrying on the head  
+Taking or transporting an object from one place to another 
+using the head, such when as carrying a container of water on 
+the head. 
+d 4305  Putting down objects  
+Using hands, arms or other parts of the body to place an object 
+down on a surface or place, such as when lowering a container 
+of water to the ground. 
+d 4308  Lifting and carrying, other specified  
+d 4309  Lifting and carrying, unspecified  
+145 
+Activities and Participation 
+ 
+ d 435   Moving objects with lower extremities 
+ICF 
+Performing coordinated actions aimed at moving an object by using the 
+legs and feet, such as kicking a ball or pushing pedals on a bicycle. 
+Inclusions: pushing with lower extremities; kicking 
+ 
+ 
+ 
+ 
+ 
+d 4350  Pushing with lower extremities  
+Using the legs and feet to exert a force on an object to move it 
+away, such as pushing a chair away with a foot. 
+d 4351  Kicking  
+Using the legs and feet to propel something away, such as 
+kicking a ball. 
+d 4358  Moving objects with lower extremities, other specified  
+d 4359  Moving objects with lower extremities, unspecified  
+ d 440   Fine hand use 
+Performing the coordinated actions of handling objects, picking up, 
+manipulating and releasing them using one's hand, fingers and thumb, 
+such as required to lift coins off a table or turn a dial or knob. 
+Inclusions: picking up, grasping, manipulating and releasing 
+Exclusion: lifting and carrying objects  (d430) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 4400  Picking up  
+Lifting or taking up a small object with hands and fingers, 
+such as when picking up a pencil. 
+d 4401  Grasping  
+Using one or both hands to seize and hold something, such as 
+when grasping a tool or a door knob. 
+d 4402  Manipulating  
+Using fingers and hands to exert control over, direct or guide 
+something, such as when handling coins or other small 
+objects. 
+d 4403  Releasing  
+Using fingers and hands to let go or set free something so that 
+it falls or changes position, such as when dropping an item of 
+clothing. 
+d 4408  Fine hand use, other specified  
+146 
+ICF 
+ 
+d 4409  Fine hand use, unspecified  
+ d 445   Hand and arm use 
+Activities and Participation 
+Performing the coordinated actions required to move objects or to 
+manipulate them by using hands and arms, such as when turning door 
+handles or throwing or catching an object. 
+Inclusions:  pulling or pushing objects; reaching; turning or twisting 
+the hands or arms; throwing; catching 
+Exclusion:   fine hand use (d440) 
+d 4450  Pulling  
+Using fingers, hands and arms to bring an object towards 
+oneself, or to move it from place to place, such as when 
+pulling a door closed. 
+d 4451  Pushing  
+Using fingers, hands and arms to move something from 
+oneself, or to move it from place to place, such as when 
+pushing an animal away. 
+d 4452  Reaching 
+Using the hands and arms to extend outwards and touch and 
+grasp something, such as when reaching across a table or desk 
+for a book. 
+d 4453  Turning or twisting the hands or arms  
+Using fingers, hands and arms to rotate, turn or bend an 
+object, such as is required to use tools or utensils. 
+d 4454  Throwing  
+Using fingers, hands and arms to lift something and propel it 
+with some force through the air, such as when tossing a ball. 
+d 4455  Catching  
+Using fingers, hands and arms to grasp a moving object in 
+order to bring it to a stop and hold it, such as when catching a 
+ball. 
+d 4458  Hand and arm use, other specified  
+d 4459  Hand and arm use, unspecified  
+d446 Fine foot use
+Performing the coordinated actions to move or manipulate objects using one's foot and toes.
+d451 Going up and down stairs
+Moving upwards and downwards so that at least one foot is always on the ground such as ascending and descending stairs or curbs.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d 449   Carrying, moving and handling objects, other specified and unspecified 
+ 
+ 
+147 
+Activities and Participation 
+ 
+ 
+Walking and moving (d450-d469) 
+ 
+ d 450   Walking 
+ICF 
+Moving along a surface on foot, step by step, so that one foot is always 
+on the ground, such as when strolling, sauntering, walking forwards, 
+backwards, or sideways. 
+Inclusions: walking short or long distances; walking on different 
+surfaces; walking around obstacles 
+Exclusions:  transferring oneself (d420); moving around (d455) 
+d 4500  Walking short distances  
+Walking for less than a kilometre, such as walking around 
+rooms or hallways, within a building or for short distances 
+outside.  
+d 4501  Walking long distances  
+Walking for more than a kilometre, such as across a village or 
+town, between villages or across open areas. 
+d 4502  Walking on different surfaces  
+Walking on sloping, uneven, or moving surfaces, such as on 
+grass, gravel or ice and snow, or walking aboard a ship, train 
+or other vehicle. 
+d 4503  Walking around obstacles  
+Walking in ways required to avoid moving and immobile 
+objects, people, animals, and vehicles, such as walking around 
+a marketplace or shop, around or through traffic or other 
+crowded areas. 
+d 4508  Walking, other specified  
+d 4509  Walking, unspecified  
+148 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICF 
+Activities and Participation 
+ d 455   Moving around 
+Moving the whole body from one place to another by means other than 
+walking, such as climbing over a rock or running down a street, 
+skipping, scampering, jumping, somersaulting or running around 
+obstacles. 
+Inclusions: crawling, climbing, running, jogging, jumping, and 
+swimming 
+Exclusions:  transferring oneself (d420); walking  (d450) 
+d 4550  Crawling  
+Moving the whole body in a prone position from one place to 
+another on hands, or hands and arms, and knees. 
+d 4551  Climbing  
+Moving the whole body upwards or downwards, over surfaces 
+or objects, such as climbing steps, rocks, ladders or stairs, 
+curbs or other objects. 
+d 4552  Running  
+Moving with quick steps so that both feet may be 
+simultaneously off the ground. 
+d 4553  Jumping  
+Moving up off the ground by bending and extending the legs, 
+such as jumping on one foot, hopping, skipping and jumping 
+or diving into water. 
+d 4554  Swimming  
+Propelling the whole body through water by means of limb 
+and body movements without taking support from the ground 
+underneath. 
+d 4558  Moving around, other specified  
+d 4559  Moving around, unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ d 460   Moving around in different locations 
+Walking  and moving around in various places and situations, such as 
+walking between rooms in a house, within a building, or down the 
+street of a town. 
+Inclusions: moving around within the home, crawling or climbing 
+within the home; walking or moving within buildings other than the 
+home, and outside the home and other buildings 
+ 
+ 
+149 
+Activities and Participation 
+ 
+ICF 
+d 4600  Moving around within the home  
+Walking and moving around in one's home, within a room, 
+between rooms, and around the whole residence or living area. 
+Inclusions: moving from floor to floor, on an attached 
+balcony, courtyard, porch or garden 
+ 
+ 
+ 
+ 
+ 
+d 4601  Moving around within buildings other than home  
+Walking and moving around within buildings other than one's 
+residence, such as moving around other people's homes, other 
+private buildings, community and private or public buildings 
+and enclosed areas. 
+Inclusions: moving throughout all parts of buildings and 
+enclosed areas, between floors, inside, outside and around 
+buildings, both public and private 
+d 4602  Moving around outside the home and other buildings  
+Walking and moving around close to or far from one's home 
+and other buildings, without the use of transportation, public 
+or private, such as walking for short or long distances around 
+a town or village. 
+Inclusions: walking or moving down streets in the 
+neighbourhood, town, village or city; moving between cities 
+and further distances, without using transportation 
+d 4608  Moving around in different locations, other specified  
+d 4609  Moving around in different locations, unspecified  
+ d 465   Moving around using equipment 
+Moving the whole body from place to place, on any surface or space, 
+by using specific devices designed to facilitate moving or create other 
+ways of moving around, such as with skates, skis, or scuba equipment, 
+or moving down the street in a wheelchair or a walker. 
+Exclusions: transferring oneself (d420); walking (d450); moving 
+around (d455); using transportation (d470); driving (d475) 
+ 
+ d 469   Walking and moving, other specified and unspecified 
+ 
+Moving around using transportation (d470-d489) 
+ 
+ 
+150 
+ICF 
+Activities and Participation 
+ d 470   Using transportation 
+Using transportation to move around as a passenger, such as being 
+driven in a car or on a bus, rickshaw, jitney, animal-powered vehicle, 
+or private or public taxi, bus, train, tram, subway, boat or aircraft. 
+Inclusions: using human-powered transportation; using private 
+motorized or public transportation 
+Exclusions: moving around using equipment (d465); driving (d475) 
+ 
+ 
+ 
+ 
+ 
+ 
+d 4700  Using human-powered vehicles  
+Being transported as a passenger by a mode of transportation 
+powered by one or more people, such as riding in a rickshaw 
+or rowboat. 
+d 4701  Using private motorized transportation  
+Being transported as a passenger by private motorized vehicle 
+over land, sea or air, such as by a taxi or privately owned 
+aircraft or boat. 
+d 4702  Using public motorized transportation  
+Being transported as a passenger by a motorized vehicle over 
+land, sea or air designed for public transportation, such as 
+being a passenger on a bus, train, subway or aircraft. 
+d 4708  Using transportation, other specified  
+d 4709  Using transportation, unspecified  
+ d 475   Driving 
+Being in control of and moving a vehicle or the animal that draws it, 
+travelling under one’s own direction or having at one’s disposal any 
+form of transportation, such as a car, bicycle, boat or animal-powered 
+vehicle. 
+Inclusions: driving human-powered transportation, motorized vehicles, 
+animal-powered vehicles 
+Exclusions: moving around using equipment (d465); using 
+transportation (d470) 
+d 4750  Driving human-powered transportation  
+Driving a human-powered vehicle, such as a bicycle, tricycle, 
+or rowboat. 
+d 4751  Driving motorized vehicles  
+Driving a vehicle with a motor, such as an automobile, 
+motorcycle, motorboat or aircraft. 
+151 
+ 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ICF 
+d 4752  Driving animal-powered vehicles  
+Driving a vehicle powered by an animal, such as a horse-
+drawn cart or carriage. 
+ 
+ 
+ 
+d 4758  Driving, other specified  
+d 4759  Driving, unspecified  
+ d 480   Riding animals for transportation 
+travelling on the back of an animal, such as a horse, ox, camel or 
+elephant 
+Exclusions: driving (d475); recreation and leisure (d920) 
+ 
+ d 489   Moving around using transportation, other specified and unspecified 
+ 
+ d 498   Mobility, other specified 
+ 
+ d 499   Mobility, unspecified 
+ 
+ 
+152 
+ICF 
+Activities and Participation 
+Chapter 5   
+Self-care 
+This chapter is about caring for oneself, washing and drying oneself, caring for 
+one's body and body parts, dressing, eating and drinking, and looking after one’s 
+health. 
+ 
+ d 510   Washing oneself 
+Washing and drying one’s whole body, or body parts, using water and 
+appropriate cleaning and drying materials or methods, such as bathing, 
+showering, washing hands and feet, face and hair, and drying with a 
+towel. 
+Inclusions: washing body parts, the whole body; and drying oneself 
+Exclusions: caring for body parts (d520); toileting (d530) 
+d 5100  Washing body parts  
+Applying water, soap and other substances to body parts, such 
+as hands, face, feet, hair or nails, in order to clean them. 
+d 5101  Washing whole body  
+Applying water, soap and other substances to the whole body 
+in order to clean oneself, such as taking a bath or shower. 
+d 5102  Drying oneself  
+Using a towel or other means for drying some part or parts of 
+one's body, or the whole body, such as after washing. 
+d 5108  Washing oneself, other specified  
+d 5109  Washing oneself, unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ d 520   Caring for body parts 
+Looking afer those parts of the body, such as skin, face, teeth, scalp, 
+nails and genitals, that require more than washing and drying. 
+Inclusions: caring for skin, teeth, hair, finger and toe nails 
+Exclusions:  washing oneself (d510); toileting (d530) 
+ 
+ 
+Caring for ears
+Looking after those parts of the body, such as skin, face, teeth, scalp, nails and genitals, that require more than washing and drying. 
+
+d 5200  Caring for skin  
+Looking after the texture and hydration of one's skin, such as 
+by removing calluses or corns and using moisturizing lotions 
+or cosmetics. 
+153 
+Activities and Participation 
+ 
+d 5201  Caring for teeth  
+ICF 
+Looking after dental hygiene, such as by brushing teeth, 
+flossing, and taking care of a dental prosthesis or orthosis. 
+ 
+ 
+ 
+ 
+ 
+ 
+d 5202  Caring for hair  
+Looking after the hair on the head and face, such as by 
+combing, styling, shaving, or trimming. 
+d 5203  Caring for fingernails  
+Cleaning, trimming or polishing the nails of the fingers. 
+d 5204  Caring for toenails  
+Cleaning, trimming or polishing the nails of the toes. 
+d 5208  Caring for body parts, other specified  
+d 5209  Caring for body parts, unspecified 
+d5205 Caring for nose 
+Cleaning the nose, looking after nasal hygiene.
+
+ d 530   Toileting 
+Planning and carrying out the elimination of human waste 
+(menstruation, urination and defecation), and cleaning oneself 
+afterwards. 
+Inclusions: regulating urination, defecation and menstrual care 
+Exclusions: washing oneself (d510); caring for body parts (d520) 
+ 
+ 
+ 
+ 
+ 
+ 
+d 5300  Regulating urination  
+Coordinating and managing urination, such as by indicating 
+need, getting into the proper position, choosing and getting to 
+an appropriate place for urination, manipulating clothing 
+before and after urination, and cleaning oneself after urination. 
+d 5301  Regulating defecation  
+Coordinating and managing defecation such as by indicating 
+need, getting into the proper position, choosing and getting to 
+an appropriate place for defecation, manipulating clothing 
+before and after defecation, and cleaning onself after 
+defecation. 
+d 5302  Menstrual care  
+Coordinating, planning and caring for menstruation, such as 
+by anticipating menstruation and using sanitary towels and 
+napkins. 
+d 5308  Toileting, other specified  
+154 
+ICF 
+ 
+d 5309  Toileting, unspecified  
+ d 540   Dressing 
+Activities and Participation 
+Carrying out the coordinated actions and tasks of putting on and taking 
+off clothes and footwear in sequence and in keeping with climatic and 
+social conditions, such as by putting on, adjusting and removing shirts, 
+skirts, blouses, pants, undergarments, saris, kimono, tights, hats, 
+gloves, coats, shoes, boots, sandals and slippers. 
+Inclusions: putting on or taking off clothes and footwear and choosing 
+appropriate clothing 
+d 5400  Putting on clothes  
+Carrying out the coordinated tasks of putting clothes on 
+various parts of the body, such as putting clothes on over the 
+head, over the arms and shoulders, and on the lower and upper 
+halves of the body; putting on gloves and headgear. 
+d 5401  Taking off clothes  
+Carrying out the coordinated tasks of taking clothes off 
+various parts of the body, such as pulling clothes off and over 
+the head, off the arms and shoulders, and off the lower and 
+upper halves of the body; taking off gloves and headgear. 
+d 5402  Putting on footwear  
+Carrying out the coordinated tasks of putting on socks, 
+stockings and footwear. 
+d 5403  Taking off footwear  
+Carrying out the coordinated tasks of taking off socks, 
+stockings and footwear. 
+d 5404  Choosing appropriate clothing  
+Following implicit or explicit dress codes and conventions of 
+one's society or culture and dressing in keeping with climatic 
+conditions. 
+d 5408  Dressing, other specified  
+d 5409  Dressing, unspecified  
+155 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ d 550   Eating 
+ICF 
+Carrying out the coordinated tasks and actions of eating food that has 
+been served, bringing it to the mouth and consuming it in culturally 
+acceptable ways, cutting or breaking food into pieces, opening bottles 
+and cans, using eating implements, having meals, feasting or dining. 
+Exclusion: drinking (d560) 
+ 
+ d 560   Drinking 
+Taking hold of a drink, bringing it to the mouth, and consuming the 
+drink in culturally acceptable ways, mixing, stirring and pouring 
+liquids for drinking, opening bottles and cans, drinking through a straw 
+or drinking running water such as from a tap or a spring; feeding from 
+the breast. 
+Exclusion:   eating (d550) 
+ 
+ d 570   Looking after one’s health 
+Ensuring physical comfort, health and physical and mental well-being, 
+such as by maintaining a balanced diet, and an appropriate level of 
+physical activity, keeping warm or cool, avoiding harms to health, 
+following safe sex practices, including using condoms, getting 
+immunizations and regular physical examinations. 
+Inclusions: ensuring one's physical comfort; managing diet and fitness; 
+maintaining one's health 
+d 5700  Ensuring one’s physical comfort  
+Caring for oneself by being aware that one needs to ensure, 
+and ensuring, that one's body is in a comfortable position, that 
+one is not feeling too hot or cold, and that one has adequate 
+lighting. 
+d 5701  Managing diet and fitness  
+Caring for oneself by being aware of the need and by selecting 
+and consuming nutritious foods and maintaining physical 
+fitness. 
+d 5702  Maintaining one's health  
+Caring for oneself by being aware of the need and doing what 
+is required to look after one's health, both to respond to risks 
+to health and to prevent ill-health, such as by seeking 
+professional assistance; following medical and other health 
+advice; and avoiding risks to health such as physical injury, 
+communicable diseases, drug-taking and sexually transmitted 
+diseases. 
+156 
+ 
+ 
+ 
+ 
+ 
+ICF 
+ 
+ 
+Activities and Participation 
+d 5708  Looking after one’s health, other specified  
+d 5709  Looking after one’s health, unspecified  
+ d 598   Self-care, other specified 
+ 
+ d 599   Self-care, unspecified 
+ 
+ 
+157 
+Activities and Participation 
+ 
+Chapter 6   
+Domestic life 
+ICF 
+This chapter is about carrying out domestic and everyday actions and tasks. 
+Areas of domestic life include acquiring a place to live, food, clothing and other 
+necessities, household cleaning and repairing, caring for personal and other 
+household objects, and assisting others. 
+ 
+Acquisition of necessities  (d610-d629) 
+ 
+ d 610   Acquiring a place to live 
+Buying, renting, furnishing and arranging a house, apartment or other 
+dwelling. 
+Inclusions: buying or renting a place to live and furnishing a place to 
+live 
+Exclusions: acquisition of goods and services (d620); caring for 
+household objects (d650) 
+d 6100  Buying a place to live  
+Acquiring ownership of a house, apartment or other dwelling. 
+d 6101  Renting a place to live  
+Acquiring the use of a house, apartment or other dwelling 
+belonging to another in exchange for payment. 
+d 6102  Furnishing a place to live  
+Equipping and arranging a living space with furniture, fixtures 
+and other fittings and decorating rooms. 
+d 6108  Acquiring a place to live, other specified  
+d 6109  Acquiring a place to live, unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ d 620   Acquisition of goods and services 
+Selecting, procuring and transporting all goods and services required 
+for daily living, such as selecting, procuring, transporting and storing 
+food, drink, clothing, cleaning materials, fuel, household items, 
+utensils, cooking ware, domestic appliance and tools; procuring 
+utilities and other household services,and picking up and delivering paper mail or packages.  
+Inclusions: shopping and gathering daily necessities 
+Exclusion: acquiring a place to live (d610) 
+ 
+ 
+158 
+ICF 
+Activities and Participation 
+d 6200  Shopping  
+Obtaining, in exchange for money, goods and services 
+required for daily living (including instructing and supervising 
+an intermediary to do the shopping), such as selecting food, 
+drink, cleaning materials, household items or clothing in a 
+shop or market; comparing quality and price of the items 
+required, negotiating and  paying for selected goods or 
+services, and transporting goods. 
+d 6201  Gathering daily necessities  
+Obtaining, without exchange of money, goods and services 
+required for daily living (including instructing and supervising 
+an intermediate to gather daily necessities), such as by 
+harvesting vegetables and fruits and getting water and fuel. 
+d 6208  Acquisition of goods and services, other specified  
+d 6209  Acquisition of goods and services, unspecified  
+ 
+ 
+ 
+ 
+ d 629   Acquisition of necessities, other specified and unspecified 
+ 
+Household  tasks (d630-d649) 
+ 
+ d 630   Preparing meals 
+Planning, organizing, cooking and serving simple and complex meals 
+for oneself and others, such as by making a menu, selecting edible food 
+and drink, getting together ingredients for preparing meals, cooking 
+with heat and preparing cold foods and drinks, and serving the food. 
+Inclusions: preparing simple and complex meals 
+Exclusions: eating (d550); drinking (d560); acquisition of goods and 
+services (d620); doing housework (d640); caring for household objects 
+(d650); caring for others (d660) 
+d 6300  Preparing simple meals  
+Organizing, cooking and serving meals with a small number 
+of ingredients that require easy methods of preparation and 
+serving, such as making a snack or small meal, and 
+transforming food ingredients by cutting and stirring, boiling 
+and heating food such as rice or potatoes. 
+159 
+ 
+ 
+ 
+Activities and Participation 
+ 
+d 6301  Preparing complex meals  
+ICF 
+Planning, organizing, cooking and serving meals with a large 
+number of ingredients that require complex methods of 
+preparation and serving, such as planning a meal with several 
+dishes, and transforming food ingredients by combined 
+actions of peeling, slicing, mixing, kneading, stirring, 
+presenting and serving food in a manner appropriate to the 
+occasion and culture. 
+Exclusion: using household appliances (d6403) 
+ 
+ 
+ 
+d 6308  Preparing meals, other specified  
+d 6309  Preparing meals, unspecified  
+ d 640   Doing housework 
+Managing a household by cleaning the house, washing clothes, using 
+household appliances, storing food and disposing of garbage, such as 
+by sweeping, mopping, washing counters, walls and other surfaces; 
+collecting and disposing of household garbage; tidying rooms, closets 
+and drawers; collecting, washing, drying, folding and ironing clothes; 
+cleaning footwear; using brooms, brushes and vacuum cleaners; using 
+washing machines, driers and irons. 
+Inclusions: washing and drying clothes and garments; cleaning 
+cooking area and utensils; cleaning living area; using household 
+appliances, storing daily necessities and disposing of garbage 
+Exclusions: acquiring a place to live (d610); acquisition of goods and 
+services (d620);  preparing meals (d630); caring for household objects 
+(d650); caring for others (d660) 
+d 6400  Washing and drying clothes and garments  
+Washing clothes and garments by hand and hanging them out 
+to dry in the air. 
+d 6401  Cleaning cooking area and utensils  
+Cleaning up after cooking, such as by washing dishes, pans, 
+pots and cooking utensils, and cleaning tables and floors 
+around cooking and eating area. 
+d 6402  Cleaning living area  
+Cleaning the living areas of the household, such as by tidying 
+and dusting, sweeping, swabbing, mopping floors, cleaning 
+windows and walls, cleaning bathrooms and toilets, cleaning 
+household furnishings. 
+160 
+ 
+ 
+ 
+ 
+ 
+ICF 
+Activities and Participation 
+d 6403  Using household appliances  
+Using all kinds of household appliances, such as washing 
+machines, driers, irons, vacuum cleaners and dishwashers. 
+d 6404  Storing daily necessities  
+Storing food, drinks, clothes and other household goods 
+required for daily living; preparing food for conservation by 
+canning, salting or refrigerating, keeping food fresh and out of 
+the reach of animals. 
+d 6405  Disposing of garbage  
+Disposing of household garbage such as by collecting trash 
+and rubbish around the house, preparing garbage for disposal, 
+using garbage disposal appliances; burning garbage. 
+d 6408  Doing housework, other specified  
+d 6409  Doing housework, unspecified  
+ 
+ 
+ 
+ 
+ 
+ d 649   Household tasks, other specified and unspecified 
+ 
+Caring for household objects and assisting others 
+(d650-d669) 
+ 
+ d 650   Caring for household objects 
+Maintaining and repairing household and other personal objects, 
+including house and contents, clothes, vehicles and assistive devices, 
+and caring for plants and animals, such as painting or wallpapering 
+rooms, fixing furniture, repairing plumbing, ensuring the proper 
+working order of vehicles, watering plants, grooming and feeding pets 
+and domestic animals. 
+Inclusions: making and repairing clothes; maintaining dwelling, 
+furnishings and domestic appliances; maintaining vehicles; 
+maintaining assistive devices; taking care of plants (indoor and 
+outdoor) and animals and taking care of entrances, walkways and driveways. 
+Exclusions: acquiring a place to live (d610); acquisition of goods and 
+services (d620); doing housework (d640); caring for others (d660); 
+remunerative employment (d850) 
+d 6500  Making and repairing clothes  
+Making and repairing clothes, such as by sewing, producing 
+or mending clothes; reattaching buttons and fasteners; ironing 
+clothes, fixing and polishing footwear. 
+Exclusion: using household appliances (d6403) 
+161 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ICF 
+d 6501  Maintaining dwelling and furnishings  
+Repairing and taking care of dwelling, its exterior, interior and 
+contents, such as by painting, repairing fixtures and furniture, 
+and using required tools for repair work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 6502  Maintaining domestic appliances  
+Repairing and taking care of all domestic appliances for 
+cooking, cleaning and repairing, such as by oiling and 
+repairing tools and maintaining the washing machine. 
+d 6503  Maintaining vehicles  
+Repairing and taking care of motorized and non-motorized 
+vehicles for personal use, including bicycles, carts, 
+automobiles and boats. 
+d 6504  Maintaining assistive devices  
+Repairing and taking care of assistive devices, such as 
+prostheses, orthoses and specialized tools and aids for 
+housekeeping and personal care; maintaining and repairing 
+aids for personal mobility such as canes, walkers, wheelchairs 
+and scooters; and maintaining communication and recreational 
+aids. 
+d 6505  Taking care of plants, indoors and outdoors  
+Taking care of plants inside and outside the house, such as by 
+planting, watering and fertilizing plants; gardening and 
+growing foods for personal use. 
+d 6506  Taking care of animals  
+Taking care of domestic animals and pets, such as by feeding, 
+cleaning, grooming and exercising pets; watching over the 
+health of animals or pets; planning for the care of animals or 
+pets in one's absence. 
+d 6508  Caring for household objects, specified  
+d 6509  Caring for household objects, unspecified  
+162 
+ICF 
+Activities and Participation 
+ d 660   Assisting others 
+Assisting household members and others with their learning, 
+communicating, self-care, movement, within the house or outside; 
+being concerned about the well-being of household members and 
+others. 
+Inclusions: assisting others with self-care, movement, communication, 
+interpersonal relations, nutrition and health maintenance 
+Exclusion: remunerative employment (d850) 
+d 6600  Assisting others with self-care  
+Assisting household members and others in performing self-
+care, including helping others with eating, bathing and 
+dressing; taking care of children or members of the household 
+who are sick or have difficulties with basic self-care; helping 
+others with their toileting. 
+d 6601  Assisting others in movement  
+Assisting household members and others in movements and in 
+moving outside the home, such as in the neighbourhood or 
+city, to or from school, place of employment or other 
+destination. 
+d 6602  Assisting others in communication  
+Assisting household members and others with their 
+communication, such as by helping with speaking, writing or 
+reading. 
+d 6603  Assisting others in interpersonal relations  
+Assisting household members and others with their 
+interpersonal interactions, such as by helping them to initiate, 
+maintain or terminate relationships. 
+d 6604  Assisting others in nutrition  
+Assisting household members and others with their nutrition, 
+such as by helping them to prepare and eat meals. 
+d 6605  Assisting others in health maintenance  
+Assisting household members and others with formal and 
+informal health care, such as by ensuring that a child gets 
+regular medical check-ups, or that an elderly relative takes 
+required medication. 
+d 6608  Assisting others, other specified  
+d 6609  Assisting others, unspecified  
+163 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ d 669   Caring for household objects and assisting others, other specified and 
+ICF 
+ 
+unspecified 
+ d 698   Domestic life, other specified 
+ 
+ d 699   Domestic life, unspecified 
+ 
+ 
+164 
+ICF 
+Activities and Participation 
+Chapter 7   
+Interpersonal interactions and 
+relationships 
+This chapter is about carrying out the actions and tasks required for basic and 
+complex interactions with people (strangers, friends, relatives, family members 
+and lovers) in a contextually and socially appropriate manner. 
+ 
+General interpersonal interactions (d710-d729) 
+ 
+ d 710   Basic interpersonal interactions 
+Interacting with people in a contextually and socially appropriate 
+manner, such as by showing consideration and esteem when 
+appropriate, or responding to the feelings of others. 
+Inclusions: showing respect, warmth, appreciation, and tolerance in 
+relationships; responding to criticism and social cues in relationships; 
+and using appropriate physical contact in relationships 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 7100  Respect and warmth in relationships  
+Showing and responding to consideration and esteem, in a 
+contextually and socially appropriate manner. 
+d 7101  Appreciation in relationships  
+Showing and responding to satisfaction and gratitude, in a 
+contextually and socially appropriate manner. 
+d 7102  Tolerance in relationships  
+Showing and responding to understanding and acceptance of 
+behaviour, in a contextually and socially appropriate manner. 
+d 7103  Criticism in relationships  
+Providing and responding to implicit and explicit differences 
+of opinion or disagreement, in a contextually and socially 
+appropriate manner. 
+d 7104  Social cues in relationships  
+Giving and reacting appropriately to signs and hints that occur 
+in social interactions. 
+d 7105  Physical contact in relationships  
+Making and responding to bodily contact with others, in a 
+contextually and socially appropriate manner. 
+165 
+Activities and Participation 
+ 
+ 
+ 
+d 7108  Basic interpersonal interactions, other specified  
+d 7109  Basic interpersonal interactions, unspecified  
+ICF 
+ d 720   Complex interpersonal interactions 
+Maintaining and managing interactions with other people, in a 
+contextually and socially appropriate manner, such as by regulating 
+emotions and impulses, controlling verbal and physical aggression, 
+acting independently in social interactions, and acting in accordance 
+with social rules and conventions, when for example playing, studying or working with others. 
+Inclusions: forming and terminating relationships; regulating 
+behaviours within interactions; interacting according to social rules; 
+and maintaining social space 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 7200  Forming relationships  
+Beginning and maintaining interactions with others for a short 
+or long period of time, in a contextually and socially 
+appropriate manner, such as by introducing oneself, finding 
+and establishing friendships and professional relationships, 
+starting a relationship that may become permanent, romantic 
+or intimate. 
+d 7201  Terminating relationships  
+Bringing interactions to a close in a contextually and socially 
+appropriate manner, such as by ending temporary 
+relationships at the end of a visit, ending long-term 
+relationships with friends when moving to a new town or 
+ending relationships with work colleagues, professional 
+colleagues and service providers, and ending romantic or 
+intimate relationships. 
+d 7202  Regulating behaviours within interactions  
+Regulating emotions and impulses, verbal aggression and 
+physical aggression in interactions with others, in a 
+contextually and socially appropriate manner. 
+d 7203 
+Interacting according to social rules  
+Acting independently in social interactions and complying 
+with social conventions governing one's role, position or other 
+social status in interactions with others. 
+d 7204  Maintaining social space  
+Being aware of and maintaining a distance between oneself 
+and others that is contextually, socially and culturally 
+appropriate. 
+166 
+ICF 
+ 
+ 
+Activities and Participation 
+d 7208  Complex interpersonal interactions, other specified  
+d 7209  Complex interpersonal interactions, unspecified  
+ d 729   General interpersonal interactions, other specified and unspecified 
+ 
+Particular interpersonal relationships (d730-d779) 
+ 
+ d 730   Relating with strangers 
+Engaging in temporary contacts and links with strangers for specific 
+purposes, such as when asking for directions or making a purchase. 
+Engaging in temporary contacts and links with strangers for specific purposes, such as when asking for information, directions or making a purchase. 
+ 
+ d 740   Formal relationships 
+Creating and maintaining specific relationships in formal settings, such 
+as with employers, professionals or service providers. 
+Inclusions: relating with persons in authority, with subordinates and 
+with equals 
+d 7400  Relating with persons in authority  
+Creating and maintaining formal relations with people in 
+positions of power or of a higher rank or prestige relative to 
+one's own social position, such as an employer. 
+d 7401  Relating with subordinates  
+Creating and maintaining formal relations with people in 
+positions of lower rank or prestige relative to one's own social 
+position, such as an employee or servant. 
+d 7402  Relating with equals  
+Creating and maintaining formal relations with people in the 
+same position of authority, rank or prestige relative to one's 
+own social position. 
+d 7408  Formal relationships, other specified  
+d 7409  Formal relationships, other unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ d 750  
+Informal social relationships 
+Entering into relationships with others, such as casual relationships 
+with people living in the same community or residence, or with co-
+workers, students, playmates or people with similar backgrounds or 
+professions. 
+Inclusions: informal relationships with friends, neighbours, 
+acquaintances, co-inhabitants and peers 
+ 
+ 
+167 
+Activities and Participation 
+ 
+ICF 
+d 7500 
+Informal relationships with friends  
+Creating and maintaining friendship relationships that are 
+characterized by mutual esteem and common interests. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d 7501 
+Informal relationships with neighbours  
+Creating and maintaining informal relationships with people 
+who live in nearby dwellings or living areas. 
+d 7502 
+Informal relationships with acquaintances  
+Creating and maintaining informal relationships with people 
+whom one knows but who are not close friends. 
+d 7503 
+Informal relationships with co-inhabitants  
+Creating and maintaining informal relationships with people 
+who are co-inhabitants of a house or other dwelling, privately 
+or publicly run, for any purpose. 
+d 7504 
+Informal relationships with peers  
+Creating and maintaining informal relationships with people 
+who share the same age, interest or other common feature. 
+d 7508 
+Informal social relationships, other specified  
+d 7509 
+Informal social relationships, unspecified  
+ d 760   Family relationships 
+Creating and maintaining kinship relationships, such as with members 
+of the nuclear family, extended family, foster and adopted family and 
+step-relationships, more distant relationships such as second cousins, or 
+legal guardians. 
+Inclusions: parent-child and child-parent relationships, sibling and 
+extended family relationships 
+ 
+ 
+ 
+ 
+d 7600  Parent-child relationships  
+Becoming and being a parent, both natural and adoptive, such 
+as by having a child and relating to it as a parent or creating 
+and maintaining a parental relationship with an adoptive child, 
+and providing physical, intellectual and emotional nurture to 
+one's natural or adoptive child. 
+d 7601  Child-parent relationships  
+Creating and maintaining relationships with one's parent, such 
+as a young child obeying his or her parents or an adult child 
+taking care of his or her elderly parents. 
+168 
+ICF 
+Activities and Participation 
+d 7602  Sibling relationships  
+Creating and maintaining a brotherly or sisterly relationship 
+with a person who shares one or both parents by birth, 
+adoption or marriage. 
+d 7603  Extended family relationships  
+Creating and maintaining a family relationship with members 
+of one's extended family, such as with cousins, aunts and 
+uncles and grandparents. 
+d 7608  Family relationships, other specified  
+d 7609  Family relationships, unspecified  
+ 
+ 
+ 
+ 
+ d 770  
+Intimate relationships 
+Creating and maintaining close or romantic relationships between 
+individuals, such as husband and wife, lovers or sexual partners. 
+Inclusions: romantic, spousal and sexual relationships 
+ 
+ 
+ 
+ 
+ 
+ 
+d 7700  Romantic relationships  
+Creating and maintaining a relationship based on emotional 
+and physical attraction, potentially leading to long-term 
+intimate relationships. 
+d 7701  Spousal relationships  
+Creating and maintaining an intimate relationship of a legal 
+nature with another person, such as in a legal marriage, 
+including becoming and being a legally married wife or 
+husband or an unmarried spouse. 
+d 7702  Sexual relationships  
+Creating and maintaining a relationship of a sexual nature, 
+with a spouse or other partner. 
+d 7708 
+Intimate relationships, other specified  
+d 7709 
+Intimate relationships, unspecified  
+ d 779   Particular interpersonal relationships, other specified and unspecified 
+ 
+ d 798  
+ 
+Interpersonal interactions and relationships, other specified 
+ d 799  
+ 
+Interpersonal interactions and relationships, unspecified 
+ 
+169 
+Activities and Participation 
+ 
+Chapter 8   
+Major life areas 
+ICF 
+This chapter is about carrying out the tasks and actions required to engage in 
+education, work and employment and to conduct economic transactions. 
+ 
+Education (d810-d839) 
+ 
+ d 810  
+ 
+Informal education 
+Learning at home or in some other non-institutional setting, such as 
+learning crafts and other skills from parents or family members, or 
+home schooling. 
+ d 815   Preschool education 
+Learning at an initial level of organized instruction, designed primarily 
+to introduce a child to the school-type environment and prepare it for 
+compulsory education, such as by acquiring skills in a day-care or 
+similar setting as preparation for advancement to school. 
+ 
+ d 820   School education 
+Gaining admission to school, Education, engaging in all school-related 
+responsibilities and privileges, and learning the course material, 
+subjects and other curriculum requirements in a primary or secondary 
+education programme, including attending school regularly, working 
+cooperatively with other students, taking direction from teachers, 
+organizing, studying and completing assigned tasks and projects, and 
+advancing to other stages of education. 
+ 
+ d 825   Vocational training 
+Engaging in all activities of a vocational programme and learning the 
+curriculum material in preparation for employment in a trade, job or 
+profession. 
+ 
+ d 830   Higher education 
+Engaging in the activities of advanced educational programmes in 
+universities, colleges and professional schools and learning all aspects 
+of the curriculum required for degrees, diplomas, certificates and other 
+accreditations, such as completing a university bachelor's or master's 
+course of study, medical school or other professional school. 
+
+ d835 Education life 
+Engaging in aspects of life of education institutions, such as university and school related associations, including: clubs, sports, related civic bodies (e.g. school council), and other institutionally-organized initiatives that are not part of the academic curriculum. 
+ 
+ d 839   Education, other specified and unspecified 
+ 
+ 
+ 
+170 
+ICF 
+Activities and Participation 
+Work and employment (d840-d859) 
+ 
+ d 840   Apprenticeship (work preparation) 
+Engaging in programmes related to preparation for employment, such 
+as performing the tasks required of an apprenticeship, internship, 
+articling and in-service training. 
+Exclusion: vocational training (d825) 
+ 
+ d 845   Acquiring, keeping and terminating a job 
+Seeking, finding and choosing employment, being hired and accepting 
+employment, maintaining and advancing through a job, trade, 
+occupation or profession, and leaving a job in an appropriate manner. 
+Inclusions: seeking employment;  preparing a resume or curriculum 
+vitae; contacting employers and preparing interviews; maintaining a 
+job; monitoring one's own work performance; giving notice; and  
+terminating a job 
+d 8450  Seeking employment  
+Locating and choosing a job, in a trade, profession or other 
+form of employment, and performing the required tasks to get 
+hired, such as showing up at the place of employment or 
+participating in a job interview. 
+d 8451  Maintaining a job  
+Performing job-related tasks to keep an occupation, trade, 
+profession or other form of employment, and obtaining 
+promotion and other advancements in employment. 
+d 8452  Terminating a job  
+Leaving or quitting a job in the appropriate manner. 
+d 8458  Acquiring, keeping and terminating a job, other specified  
+d 8459  Acquiring, keeping and terminating a job, unspecified  
+ 
+ 
+ 
+ 
+ 
+ 
+ d 850   Remunerative employment 
+Engaging in all aspects of work, as an occupation, trade, profession or 
+other form of employment, for payment, as an employee, full or part 
+time, or self-employed, such as seeking employment and getting a job, 
+doing the required tasks of the job, attending work on time as required, 
+supervising other workers or being supervised, and performing 
+required tasks alone or in groups. 
+Inclusions: self-employment, part-time and full-time employment 
+ 
+ 
+171 
+Activities and Participation 
+ 
+d 8500  Self-employment  
+ICF 
+Engaging in remunerative work sought or generated by the 
+individual, or contracted from others without a formal 
+employment relationship, such as migratory agricultural work, 
+working as a free-lance writer or consultant, short-term 
+contract work, working as an artist or crafts person, owning 
+and running a shop or other business. 
+Exclusions: part-time and full-time employment (d8501, 
+d8502) 
+ 
+ 
+ 
+ 
+ 
+d 8501  Part-time employment  
+Engaging in all aspects of work for payment on a part-time 
+basis, as an employee, such as seeking employment and 
+getting a job, doing the tasks required of the job, attending 
+work on time as required, supervising other workers or being 
+supervised, and performing required tasks alone or in groups. 
+d 8502  Full-time employment  
+Engaging in all aspects of work for payment on a full-time 
+basis, as an employee, such as seeking employment and 
+getting a job, doing the required tasks of the job, attending 
+work on time as required, supervising other workers or being 
+supervised, and performing required tasks alone or in groups. 
+d 8508  Remunerative employment, other specified  
+d 8509  Remunerative employment, unspecified  
+ d 855   Non-remunerative employment 
+Engaging in all aspects of work in which pay is not provided, full-time 
+or part-time, including organized work activities, doing the required 
+tasks of the job, attending work on time as required, supervising other 
+workers or being supervised, and performing required tasks alone or in 
+groups, such as volunteer work, charity work, working for a 
+community or religious group without remuneration, working around 
+the home without remuneration. 
+Exclusion: Chapter 6 Domestic Life 
+ 
+ d 859   Work and employment, other specified and unspecified 
+ 
+Economic life (d860-d879) 
+ 
+ 
+172 
+ICF 
+Activities and Participation 
+ d 860   Basic economic transactions 
+Engaging in any form of simple economic transaction, such as using 
+money to purchase food or bartering, exchanging goods or services; or 
+saving money. 
+ 
+ d 865   Complex economic transactions 
+Engaging in any form of complex economic transaction that involves 
+the exchange of capital or property, and the creation of profit or 
+economic value, such as buying a business, factory, or equipment, 
+maintaining a bank account, or trading in commodities. 
+ 
+ d 870   Economic self-sufficiency 
+Having command over economic resources, from private or public 
+sources, in order to ensure economic security for present and future 
+needs. 
+Inclusions: personal economic resources and public economic 
+entitlements 
+ 
+ 
+ 
+ 
+ 
+d 8700  Personal economic resources  
+Having command over personal or private economic 
+resources, in order to ensure economic security for present and 
+future needs. 
+d 8701  Public economic entitlements  
+Having command over public economic resources, in order to 
+ensure economic security for present and future needs. 
+d 8708  Economic self-sufficiency, other specified  
+d 8709  Economic self-sufficiency, unspecified  
+ d 879   Economic life, other specified and unspecified 
+ 
+ d 898   Major life areas, other specified 
+ 
+ d 899   Major life areas, unspecified 
+ 
+ 
+173 
+Activities and Participation 
+ 
+Chapter 9   
+Community, social and civic life 
+ICF 
+This chapter is about the actions and tasks required to engage in organized 
+social life outside the family, in community, social and civic areas of life. 
+ 
+ d 910   Community life 
+Engaging in all aspects of community social life, such as engaging in 
+charitable organizations, service clubs or professional social 
+organizations. 
+Inclusions: informal and formal associations; ceremonies 
+Exclusions: non-remunerative employment  (d855); recreation and 
+leisure (d920); religion and spirituality (d930); political life and 
+citizenship (d950) 
+d 9100 
+Informal associations  
+Engaging in social or community associations organized by 
+people with common interests, such as local social clubs or 
+ethnic groups. 
+d 9101  Formal associations  
+Engaging in professional or other exclusive social groups, 
+such as associations of lawyers, physicians or academics. 
+d 9102  Ceremonies  
+Engaging in non-religious rites or social ceremonies, such as 
+marriages, funerals or initiation ceremonies. 
+d 9108  Community life, other specified  
+d 9109  Community life, unspecified  
+174 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICF 
+Activities and Participation 
+ d 920   Recreation and leisure 
+Engaging in any form of play, recreational or leisure activity, such as 
+informal or organized play and sports, programmes of physical fitness, 
+relaxation, amusement or diversion, going to art galleries, museums, 
+cinemas or theatres; engaging in crafts or hobbies, reading for 
+enjoyment, playing musical instruments; sightseeing, tourism and 
+travelling for pleasure. 
+Inclusions: play, sports, arts and culture, crafts, hobbies and 
+socializing 
+Exclusions: riding animals for transportation (d480); remunerative 
+and non-remunerative work (d850 and d855); religion and spirituality 
+(d930); political life and citizenship (d950) 
+d 9200  Play  
+Engaging in games with rules or unstructured or unorganized 
+games and spontaneous recreation, such as playing chess or 
+cards or children's play. 
+d 9201  Sports  
+Engaging in competitive and informal or formally organized 
+games or athletic events, performed alone or in a group, such 
+as bowling, gymnastics or soccer. 
+d 9202  Arts and culture  
+Engaging in, or appreciating, fine arts or cultural events, such 
+as going to the theatre, cinema, museum or art gallery, or 
+acting in a play, reading for enjoyment or playing a musical 
+instrument. 
+d 9203  Crafts  
+Engaging in handicrafts, such as pottery or knitting. 
+d 9204  Hobbies  
+Engaging in pastimes such as  collecting stamps, coins or 
+antiques. 
+d 9205  Socializing  
+Engaging in informal or casual gatherings with others, such as 
+visiting friends or relatives or meeting informally in public 
+places. 
+d 9208  Recreation and leisure, other specified  
+d 9209  Recreation and leisure, unspecified  
+175 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Activities and Participation 
+ 
+ d 930   Religion and spirituality 
+ICF 
+Engaging in religious or spiritual activities, organizations and practices 
+for self-fulfilment, finding meaning, religious or spiritual value and 
+establishing connection with a divine power, such as is involved in 
+attending a church, temple, mosque or synagogue, praying or chanting 
+for a religious purpose, and spiritual contemplation. 
+Inclusions: organized religion and spirituality 
+ 
+ 
+ 
+ 
+ 
+d 9300  Organized religion  
+Engaging in organized religious ceremonies, activities and 
+events. 
+d 9301  Spirituality  
+Engaging in spiritual activities or events, outside an organized 
+religion. 
+d 9308  Religion and spirituality, other specified  
+d 9309  Religion and spirituality, unspecified  
+ d 940   Human rights 
+Enjoying all nationally and internationally recognized rights that are 
+accorded to people by virtue of their humanity alone, such as human 
+rights as recognized by the United Nations Universal Declaration of 
+Human Rights (1948) and the United Nations Standard Rules for the 
+Equalization of Opportunities for Persons with Disabilities (1993); the 
+right to self-determination or autonomy; and the right to control over 
+one's destiny. 
+Exclusion: political life and citizenship (d950) 
+ 
+ d 950   Political life and citizenship 
+Engaging in the social, political and governmental life of a citizen, 
+having legal status as a citizen and enjoying the rights, protections, 
+privileges and duties associated with that role, such as the right to vote 
+and run for political office, to form political associations; enjoying the 
+rights and freedoms associated with citizenship (e.g. the rights of 
+freedom of speech, association, religion, protection against 
+unreasonable search and seizure, the right to counsel, to a trial and 
+other legal rights and protection against discrimination); having legal 
+standing as a citizen. 
+Exclusion: human rights (d940) 
+ 
+ d 998   Community, social and civic life, other specified 
+ 
+ 
+176 
+ICF 
+Activities and Participation 
+ d 999   Community, social and civic life, unspecified 
+ 
+ 
+177 
+
+d131 Learning through actions with objects
+Learning through simple actions on a single object, two or more objects, symbolic and pretend play, such as in hitting an object, banging blocks and playing with dolls or cars. 
+
+d132 Acquiring language
+Developing the competence to represent persons, objects, events, feelings through words, symbols, phrases and sentences.
+
+d133 Acquiring additional language 
+Developing the competence to represent persons, objects, events, feelings through words, symbols, phrases and sentences, such as in an additional language or signing.
+
+d137 Acquiring concepts
+Developing competence to understand and use basic and complex concepts related to characteristics, properties and features defining things, persons or events.
+
+d138 Acquiring information 
+Obtaining facts about persons, things and events, such as asking why, what, where and how, asking for names.
+
