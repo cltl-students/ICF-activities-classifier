@@ -1,5 +1,6 @@
-## This repository provides the codes and datasets used in the thesis: Training Daily Activity Classifiers for
-Healthcare with Semantic Similarity.
+# ICF Activities Classifiers
+
+### This repository provides the codes and datasets used in the thesis: Training Daily Activity Classifiers for Healthcare with Semantic Similarity.
 
 ### The repository consists of three folders:
 
