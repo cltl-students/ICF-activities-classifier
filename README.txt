@@ -1,7 +1,7 @@
-This repository provides the codes and datasets used in the thesis: Training Daily Activity Classifiers for
+## This repository provides the codes and datasets used in the thesis: Training Daily Activity Classifiers for
 Healthcare with Semantic Similarity.
 
-The repository consists of three folders:
+### The repository consists of three folders:
 
 1. codes: the codes for running the models to generate predictions results.
 
